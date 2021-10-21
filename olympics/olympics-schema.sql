@@ -1,25 +1,28 @@
 
-postgres=# CREATE TABLE athletes (
-postgres(# id integer,
-postgres(# name text,
-postgres(# sex text,
-postgres(# age integer,
-postgres(# height float,
-postgres(# weight float,
-postgres(# team text
-postgres(# );
+CREATE TABLE athletes (
+  id integer,
+  name text,
+  sex text,
+  age integer,
+  height integer,
+  weight integer,
+  team text
+);
 
-postgres=# CREATE TABLE events (
-postgres(# year integer,
-postgres(# season text,
-postgres(# sport text,
-postgres(# event text,
-postgres(# gold_medalist integer,
-postgres(# silver_medalist integer,
-postgres(# bronze_medalist integer
-postgres(# );
+CREATE TABLE events (
+  year integer,
+  season text,
+  sport text,
+  event text,
+  gold_medalist integer,
+  silver_medalist integer,
+  bronze_medalist integer
+);
 
-postgres=# CREATE TABLE noc_region (
-postgres(# noc text,
-postgres(# region text
-postgres(# );
+CREATE TABLE noc_region (
+  noc text,
+  region text,
+  golds integer,
+  silvers integer,
+  bronzes integer
+);

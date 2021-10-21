@@ -1,20 +1,20 @@
-SELECT noc_region.noc
+SELECT noc
 FROM noc_region
-ORDER BY noc_region.noc
+ORDER BY noc
 
-SELECT athletes.name
+SELECT name
 FROM noc_region, athletes
-WHERE noc_region.noc = athletes.team
-AND noc_region.noc = 'Kenya'
+WHERE noc = team
+AND noc = 'Kenya'
 
-SELECT events.event, events.year
+SELECT event, year
 FROM events, athletes
-WHERE athletes.name = 'Greg Louganis'
-AND athletes.id = events.gold
-OR athletes.id = events.silver
-OR athletes.id = events.bronze
-ORDER BY events.year
+WHERE name = 'Greg Louganis'
+AND id = gold
+OR id = silver
+OR id = bronze
+ORDER BY year
 
-SELECT noc_region.noc, noc_region.medals
+SELECT noc, medals
 FROM noc_region
-ORDER BY noc_region.medals
+ORDER BY medals

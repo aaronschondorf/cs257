@@ -1,7 +1,7 @@
 1992,Summer,Basketball,Basketball Men's Basketball,115325,127607,126840
 2012,Summer,Judo,Judo Men's Extra-Lightweight,38177,48768,112646
 1920,Summer,Football,Football Men's Football,125925,133878,127342
-1900,Summer,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,130945,105848,NA
+1900,Summer,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,130945,105848,
 1988,Winter,Speed Skating,Speed Skating Women's 500 metres,12054,102862,32700
 1988,Winter,Speed Skating,"Speed Skating Women's 1,000 metres",102862,32700,12054
 1992,Winter,Speed Skating,Speed Skating Women's 500 metres,12054,132743,102862
@@ -9,12 +9,12 @@
 1994,Winter,Speed Skating,Speed Skating Women's 500 metres,12054,5908,106728
 1994,Winter,Speed Skating,"Speed Skating Women's 1,000 metres",12054,6871,132743
 1992,Winter,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,123284,2296,73732
-1992,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA,26807,125180
-1992,Winter,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA,123284,125180
+1992,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,,26807,125180
+1992,Winter,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,,123284,125180
 1992,Winter,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,123284,125180,98945
-1994,Winter,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA,112152,2296
-1994,Winter,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,3069,NA,83902
-1994,Winter,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA,112152,34270
+1994,Winter,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,,112152,2296
+1994,Winter,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,3069,,83902
+1994,Winter,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,,112152,34270
 1994,Winter,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,125180,123284,98945
 1932,Summer,Athletics,Athletics Women's 100 metres,128025,115777,127292
 1932,Summer,Athletics,Athletics Women's 4 x 100 metres Relay,127292,115777,129100
@@ -38,17 +38,17 @@
 1948,Summer,Gymnastics,Gymnastics Men's Parallel Bars,100141,50918,114216
 1948,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,114216,68384,50918
 1948,Summer,Gymnastics,Gymnastics Men's Rings,37009,100141,103743
-1948,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,106296,NA,NA
+1948,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,106296,,
 1952,Summer,Gymnastics,Gymnastics Men's Individual All-Around,21402,109141,114216
 1952,Summer,Gymnastics,Gymnastics Men's Team All-Around,109141,122231,126831
-1952,Summer,Gymnastics,Gymnastics Men's Floor Exercise,120051,123139,NA
+1952,Summer,Gymnastics,Gymnastics Men's Floor Exercise,120051,123139,
 1952,Summer,Gymnastics,Gymnastics Men's Horse Vault,21402,118030,123139
 1952,Summer,Gymnastics,Gymnastics Men's Parallel Bars,33403,21402,114216
-1952,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,43932,114216,NA
+1952,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,43932,114216,
 1952,Summer,Gymnastics,Gymnastics Men's Rings,109141,21402,68812
-1952,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,21402,109141,NA
+1952,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,21402,109141,
 2000,Summer,Athletics,Athletics Men's Shot Put,46056,85183,40969
-1948,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",NA,NA,NA
+1948,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",,,
 1992,Winter,Alpine Skiing,Alpine Skiing Men's Downhill,89619,94579,73197
 1992,Winter,Alpine Skiing,Alpine Skiing Men's Super G,20,40534,120092
 1992,Winter,Alpine Skiing,Alpine Skiing Men's Giant Slalom,120913,40534,20
@@ -59,7 +59,7 @@
 1994,Winter,Alpine Skiing,Alpine Skiing Men's Slalom,114310,120913,63006
 1994,Winter,Alpine Skiing,Alpine Skiing Men's Combined,61001,20,86344
 1998,Winter,Alpine Skiing,Alpine Skiing Men's Downhill,23781,61001,121940
-1998,Winter,Alpine Skiing,Alpine Skiing Men's Super G,73643,61447,NA
+1998,Winter,Alpine Skiing,Alpine Skiing Men's Super G,73643,61447,
 1998,Winter,Alpine Skiing,Alpine Skiing Men's Giant Slalom,73643,31236,127334
 1998,Winter,Alpine Skiing,Alpine Skiing Men's Combined,99847,61001,76974
 2002,Winter,Alpine Skiing,Alpine Skiing Men's Downhill,115801,61001,31236
@@ -74,9 +74,9 @@
 2000,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",132880,7827,123827
 2004,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",80337,514,73806
 1960,Winter,Speed Skating,Speed Skating Men's 500 metres,43030,28754,42197
-1960,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",43030,NA,114919
+1960,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",43030,,114919
 1964,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",4604,126047,46635
-1920,Summer,Gymnastics,"Gymnastics Men's Team All-Around, Free System",126066,130300,NA
+1920,Summer,Gymnastics,"Gymnastics Men's Team All-Around, Free System",126066,130300,
 1984,Winter,Luge,Luge Women's Singles,128311,107076,87737
 1984,Summer,Water Polo,Water Polo Men's Water Polo,127722,130808,119560
 1968,Summer,Sailing,Sailing Mixed Three Person Keelboat,107496,75230,129306
@@ -100,14 +100,14 @@
 1912,Summer,Fencing,"Fencing Men's epee, Individual",4472,89755,67519
 1912,Summer,Fencing,"Fencing Men's epee, Team",130526,108451,124885
 1952,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",3734,124482,40
-1956,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",79644,NA,104855
+1956,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",79644,,104855
 1956,Winter,Speed Skating,"Speed Skating Men's 5,000 metres",109752,32913,41384
 1960,Winter,Speed Skating,"Speed Skating Men's 5,000 metres",62999,55072,93737
 1960,Winter,Speed Skating,"Speed Skating Men's 10,000 metres",55072,62999,6604
 1912,Summer,Sailing,Sailing Mixed 8 metres,54133,129837,129846
 1992,Summer,Equestrianism,"Equestrianism Mixed Jumping, Individual",9349,99269,27368
 1998,Winter,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,83902,54700,34270
-1998,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA,55833,49130
+1998,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,,55833,49130
 2002,Winter,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,125641,33312,73295
 2002,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,52825,125641,48877
 2002,Winter,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,111678,135263,113048
@@ -271,11 +271,11 @@
 1960,Summer,Gymnastics,Gymnastics Men's Individual All-Around,109161,89187,120548
 1960,Summer,Gymnastics,Gymnastics Men's Team All-Around,122415,120548,126299
 1960,Summer,Gymnastics,Gymnastics Men's Floor Exercise,1483,120548,78733
-1960,Summer,Gymnastics,Gymnastics Men's Horse Vault,109161,NA,96340
+1960,Summer,Gymnastics,Gymnastics Men's Horse Vault,109161,,96340
 1960,Summer,Gymnastics,Gymnastics Men's Parallel Bars,109161,18369,89187
 1960,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,89187,118030,109161
 1960,Summer,Gymnastics,Gymnastics Men's Rings,6300,109161,89187
-1960,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,109161,NA,122415
+1960,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,109161,,122415
 1992,Summer,Fencing,"Fencing Men's Foil, Individual",89082,49612,42735
 2004,Summer,Taekwondo,Taekwondo Women's Featherweight,53630,165,104654
 1964,Summer,Athletics,Athletics Men's Marathon,11467,47003,122374
@@ -416,7 +416,7 @@
 2008,Summer,Table Tennis,Table Tennis Women's Singles,134605,128539,43986
 1996,Summer,Shooting,Shooting Men's Skeet,33861,103931,10033
 2000,Summer,Shooting,Shooting Men's Skeet,79776,74017,42509
-2000,Summer,Swimming,Swimming Men's 50 metres Freestyle,45039,NA,124336
+2000,Summer,Swimming,Swimming Men's 50 metres Freestyle,45039,,124336
 1928,Summer,Athletics,Athletics Men's 110 metres Hurdles,5831,3862,22435
 1928,Summer,Athletics,Athletics Men's 400 metres Hurdles,16557,24229,118927
 1960,Summer,Weightlifting,Weightlifting Men's Heavyweight,126988,14496,106719
@@ -431,11 +431,11 @@
 1976,Summer,Water Polo,Water Polo Men's Water Polo,117541,110662,125638
 1984,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",22947,86473,2800
 1984,Summer,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",56997,52264,11413
-1972,Summer,Cycling,"Cycling Men's Road Race, Individual",64747,108225,NA
+1972,Summer,Cycling,"Cycling Men's Road Race, Individual",64747,108225,
 1968,Summer,Athletics,Athletics Men's 400 metres Hurdles,47515,47664,109634
 1960,Summer,Hockey,Hockey Men's Hockey,99052,111173,125867
 1964,Summer,Hockey,Hockey Men's Hockey,111159,133750,131472
-2008,Summer,Athletics,Athletics Women's 100 metres,36870,115156,NA
+2008,Summer,Athletics,Athletics Women's 100 metres,36870,115156,
 2012,Summer,Athletics,Athletics Women's 100 metres,36870,54695,17755
 1960,Summer,Athletics,Athletics Men's Triple Jump,117552,41926,64019
 1960,Summer,Athletics,Athletics Men's High Jump,109360,15730,119808
@@ -553,7 +553,7 @@
 1972,Summer,Gymnastics,Gymnastics Women's Team All-Around,122726,135379,84198
 1972,Summer,Gymnastics,Gymnastics Women's Floor Exercise,62738,122726,67394
 1972,Summer,Gymnastics,Gymnastics Women's Horse Vault,53861,135379,122726
-1972,Summer,Gymnastics,Gymnastics Women's Uneven Bars,53861,135379,NA
+1972,Summer,Gymnastics,Gymnastics Women's Uneven Bars,53861,135379,
 1972,Summer,Gymnastics,Gymnastics Women's Balance Beam,62738,67394,53861
 2008,Summer,Diving,Diving Women's Springboard,43965,90671,131805
 2012,Summer,Diving,Diving Women's Springboard,131805,46948,105202
@@ -570,7 +570,7 @@
 1948,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",22838,121000,55825
 1952,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",62443,133021,4168
 1952,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",111370,4168,53091
-1920,Summer,Sailing,Sailing Mixed 7 metres,131696,86024,NA
+1920,Summer,Sailing,Sailing Mixed 7 metres,131696,86024,
 2012,Summer,Judo,Judo Women's Half-Middleweight,135219,132073,123136
 2008,Summer,Athletics,Athletics Men's Decathlon,21947,63875,116102
 2016,Summer,Athletics,Athletics Men's Decathlon,31205,76987,128773
@@ -580,7 +580,7 @@
 1960,Summer,Gymnastics,Gymnastics Women's Uneven Bars,5700,67046,72705
 1960,Summer,Gymnastics,Gymnastics Women's Balance Beam,13708,67046,83448
 1900,Summer,Rowing,Rowing Men's Coxed Eights,75384,125969,124525
-1904,Summer,Rowing,Rowing Men's Coxed Eights,106702,131736,NA
+1904,Summer,Rowing,Rowing Men's Coxed Eights,106702,131736,
 1980,Winter,Biathlon,Biathlon Men's 10 kilometres Sprint,123254,2737,3245
 1980,Winter,Biathlon,Biathlon Men's 20 kilometres,3245,123254,102539
 1980,Winter,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,120316,123254,130998
@@ -613,7 +613,7 @@
 2000,Summer,Shooting,"Shooting Women's Air Pistol, 10 metres",118519,108383,36251
 2000,Summer,Shooting,"Shooting Women's Sporting Pistol, 25 metres",43252,118519,80042
 2016,Summer,Swimming,Swimming Men's 100 metres Freestyle,19603,120388,1017
-2016,Summer,Boxing,Boxing Men's Flyweight,135205,NA,50565
+2016,Summer,Boxing,Boxing Men's Flyweight,135205,,50565
 1992,Summer,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",44205,65180,102738
 1996,Summer,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",102738,49457,75161
 2008,Summer,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",128165,124716,14462
@@ -760,7 +760,7 @@
 2014,Winter,Freestyle Skiing,Freestyle Skiing Men's Aerials,65236,82243,54771
 2010,Winter,Biathlon,Biathlon Men's 10 kilometres Sprint,54079,116916,33832
 2010,Winter,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,35064,116413,54079
-2010,Winter,Biathlon,Biathlon Men's 20 kilometres,116916,87148,NA
+2010,Winter,Biathlon,Biathlon Men's 20 kilometres,116916,87148,
 2010,Winter,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,116916,116413,123616
 2014,Winter,Biathlon,Biathlon Men's 10 kilometres Sprint,11951,66305,113421
 2014,Winter,Biathlon,Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay,116916,126885,130959
@@ -805,7 +805,7 @@
 1968,Summer,Gymnastics,Gymnastics Men's Floor Exercise,57998,84381,58005
 1968,Summer,Gymnastics,Gymnastics Men's Horse Vault,127501,32574,28690
 1968,Summer,Gymnastics,Gymnastics Men's Parallel Bars,84381,127501,61251
-1968,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,127501,NA,58702
+1968,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,127501,,58702
 1968,Summer,Gymnastics,Gymnastics Men's Rings,84381,127501,57998
 1968,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,19353,65984,127501
 1976,Summer,Swimming,Swimming Men's 200 metres Breaststroke,130463,47558,22339
@@ -864,7 +864,7 @@
 1964,Summer,Gymnastics,Gymnastics Women's Individual All-Around,18826,67046,5700
 1964,Summer,Gymnastics,Gymnastics Women's Team All-Around,127154,120598,122383
 1964,Summer,Gymnastics,Gymnastics Women's Floor Exercise,67046,5700,30368
-1964,Summer,Gymnastics,Gymnastics Women's Horse Vault,18826,98179,NA
+1964,Summer,Gymnastics,Gymnastics Women's Horse Vault,18826,98179,
 1964,Summer,Gymnastics,Gymnastics Women's Uneven Bars,5700,73912,67046
 1964,Summer,Gymnastics,Gymnastics Women's Balance Beam,18826,74463,67046
 2016,Summer,Athletics,Athletics Men's 100 metres,13029,39035,26135
@@ -910,7 +910,7 @@
 1968,Summer,Football,Football Men's Football,117627,134708,133429
 1992,Summer,Boxing,Boxing Men's Welterweight,18598,48102,20388
 1992,Summer,Weightlifting,Weightlifting Men's Lightweight,79836,133172,9401
-1972,Summer,Cycling,Cycling Men's 100 kilometres Team Time Trial,132647,117635,NA
+1972,Summer,Cycling,Cycling Men's 100 kilometres Team Time Trial,132647,117635,
 1968,Summer,Athletics,Athletics Men's 200 metres,112418,86955,18290
 1972,Summer,Athletics,Athletics Men's 400 metres,76686,22418,105434
 2016,Summer,Swimming,Swimming Men's 100 metres Backstroke,83545,132065,95532
@@ -976,13 +976,13 @@
 2006,Winter,Nordic Combined,Nordic Combined Men's Individual,48298,42019,80725
 2006,Winter,Nordic Combined,Nordic Combined Men's Sprint,42019,80725,48298
 1968,Summer,Athletics,Athletics Women's Pentathlon,79462,117219,63423
-1932,Summer,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",NA,NA,NA
+1932,Summer,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",,,
 1988,Winter,Bobsleigh,Bobsleigh Men's Two,63593,83678,68360
 1992,Winter,Bobsleigh,Bobsleigh Men's Two,129212,135034,66446
 1992,Winter,Bobsleigh,Bobsleigh Men's Four,131001,83678,129212
 1994,Winter,Bobsleigh,Bobsleigh Men's Two,129212,42002,120242
 1994,Winter,Bobsleigh,Bobsleigh Men's Four,117471,129212,49870
-1998,Winter,Bobsleigh,Bobsleigh Men's Two,118659,NA,135034
+1998,Winter,Bobsleigh,Bobsleigh Men's Two,118659,,135034
 2002,Winter,Bobsleigh,Bobsleigh Men's Four,66421,107606,114590
 2000,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,130704,113459,93365
 1992,Summer,Diving,Diving Men's Platform,116491,29387,132045
@@ -1062,7 +1062,7 @@
 1976,Summer,Athletics,Athletics Women's Shot Put,59459,20892,35141
 2006,Winter,Curling,Curling Men's Curling,85820,123651,110091
 1912,Summer,Gymnastics,Gymnastics Men's Team All-Around,135262,122567,129964
-1912,Summer,Art Competitions,Art Competitions Mixed Literature,26059,NA,NA
+1912,Summer,Art Competitions,Art Competitions Mixed Literature,26059,,
 1948,Summer,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",26900,97375,128930
 1912,Summer,Water Polo,Water Polo Men's Water Polo,130479,64925,95465
 1984,Summer,Shooting,"Shooting Men's Free Pistol, 50 metres",132061,111582,128626
@@ -1101,9 +1101,9 @@
 1952,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,131029,130059,123288
 1972,Summer,Fencing,"Fencing Men's epee, Individual",34649,65788,64806
 2012,Summer,Swimming,Swimming Women's 50 metres Freestyle,64249,39672,125745
-1964,Summer,Gymnastics,Gymnastics Men's Individual All-Around,32574,122415,NA
+1964,Summer,Gymnastics,Gymnastics Men's Individual All-Around,32574,122415,
 1964,Summer,Gymnastics,Gymnastics Men's Team All-Around,132364,122214,129150
-1964,Summer,Gymnastics,Gymnastics Men's Floor Exercise,78733,70468,NA
+1964,Summer,Gymnastics,Gymnastics Men's Floor Exercise,78733,70468,
 1964,Summer,Gymnastics,Gymnastics Men's Horse Vault,132364,70468,98888
 1964,Summer,Gymnastics,Gymnastics Men's Parallel Bars,32574,122415,78733
 1964,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,109161,120548,19353
@@ -1164,7 +1164,7 @@
 2016,Summer,Shooting,Shooting Men's Skeet,102734,116968,2112
 1996,Summer,Shooting,"Shooting Men's Air Pistol, 10 metres",28070,128626,60789
 1996,Summer,Shooting,"Shooting Men's Free Pistol, 50 metres",62097,8456,28070
-1908,Summer,Athletics,Athletics Men's Standing High Jump,33557,122302,NA
+1908,Summer,Athletics,Athletics Men's Standing High Jump,33557,122302,
 1908,Summer,Athletics,Athletics Men's Standing Long Jump,33557,122302,109597
 1908,Summer,Athletics,Athletics Men's Triple Jump,1323,72872,66782
 1908,Summer,Athletics,Athletics Men's Discus Throw,109597,40215,50016
@@ -1178,7 +1178,7 @@
 1908,Summer,Wrestling,"Wrestling Men's Featherweight, Freestyle",29152,111949,77729
 1992,Summer,Baseball,Baseball Men's Baseball,125296,131817,128887
 1928,Summer,Athletics,Athletics Women's High Jump,19049,40596,130424
-2004,Summer,Athletics,Athletics Women's Shot Put,24281,61154,NA
+2004,Summer,Athletics,Athletics Women's Shot Put,24281,61154,
 2008,Summer,Athletics,Athletics Women's Shot Put,846,59383,89819
 2012,Summer,Athletics,Athletics Women's Shot Put,846,62258,41420
 2008,Summer,Rowing,Rowing Men's Coxless Fours,130681,103786,102394
@@ -1349,7 +1349,7 @@
 2000,Summer,Athletics,Athletics Men's 100 metres,42669,12946,119943
 1924,Winter,Nordic Combined,Nordic Combined Men's Individual,46625,115917,43401
 1964,Winter,Alpine Skiing,Alpine Skiing Women's Downhill,44461,135020,47037
-1964,Winter,Alpine Skiing,Alpine Skiing Women's Giant Slalom,41081,106084,NA
+1964,Winter,Alpine Skiing,Alpine Skiing Women's Giant Slalom,41081,106084,
 1948,Summer,Boxing,Boxing Men's Flyweight,93387,7479,45485
 1928,Summer,Athletics,Athletics Men's High Jump,60467,47083,78566
 1984,Winter,Biathlon,Biathlon Men's 10 kilometres Sprint,65432,4321,53171
@@ -1359,16 +1359,16 @@
 1976,Winter,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,132820,116762,123254
 2004,Summer,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",73775,74244,60586
 2000,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,123088,130565,88745
-1980,Summer,Gymnastics,Gymnastics Women's Individual All-Around,25766,40866,NA
-1980,Summer,Gymnastics,Gymnastics Women's Floor Exercise,60182,NA,109253
+1980,Summer,Gymnastics,Gymnastics Women's Individual All-Around,25766,40866,
+1980,Summer,Gymnastics,Gymnastics Women's Floor Exercise,60182,,109253
 1980,Summer,Gymnastics,Gymnastics Women's Horse Vault,109253,63691,103362
 1980,Summer,Gymnastics,Gymnastics Women's Uneven Bars,40866,31240,103362
 1980,Summer,Gymnastics,Gymnastics Women's Balance Beam,22570,25766,109253
 1984,Summer,Gymnastics,Gymnastics Women's Individual All-Around,100133,117318,92146
 1984,Summer,Gymnastics,Gymnastics Women's Floor Exercise,117318,77900,100133
 1984,Summer,Gymnastics,Gymnastics Women's Horse Vault,117318,100133,1109
-1984,Summer,Gymnastics,Gymnastics Women's Uneven Bars,77900,NA,100133
-1984,Summer,Gymnastics,Gymnastics Women's Balance Beam,117318,NA,55408
+1984,Summer,Gymnastics,Gymnastics Women's Uneven Bars,77900,,100133
+1984,Summer,Gymnastics,Gymnastics Women's Balance Beam,117318,,55408
 2016,Summer,Rowing,Rowing Men's Quadruple Sculls,129601,77955,117835
 1900,Summer,Shooting,Shooting Men's Trap,25904,44248,21899
 1936,Summer,Cycling,"Cycling Men's Road Race, Individual",19942,66603,86127
@@ -1386,7 +1386,7 @@
 1920,Summer,Shooting,"Shooting Men's Military Rifle, Standing, 300 metres, Team",106417,113935,65868
 1924,Summer,Shooting,"Shooting Men's Free Rifle, Prone, 600 metres",35572,89706,66826
 1924,Summer,Shooting,"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",115405,103465,123859
-1928,Summer,Weightlifting,Weightlifting Men's Lightweight,47375,NA,5242
+1928,Summer,Weightlifting,Weightlifting Men's Lightweight,47375,,5242
 2008,Summer,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,130417,114753,118617
 2012,Summer,Swimming,Swimming Men's 100 metres Freestyle,1017,73453,46829
 2012,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,119755,76551,118617
@@ -1405,7 +1405,7 @@
 1968,Winter,Alpine Skiing,Alpine Skiing Men's Slalom,59745,50712,76632
 1988,Summer,Judo,Judo Men's Half-Lightweight,67896,92383,132332
 1952,Summer,Rowing,Rowing Men's Single Sculls,122987,131487,61741
-2000,Summer,Athletics,Athletics Women's 100 metres,NA,119503,90007
+2000,Summer,Athletics,Athletics Women's 100 metres,,119503,90007
 2000,Summer,Athletics,Athletics Women's 4 x 100 metres Relay,116026,90007,100552
 1980,Summer,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",62730,29835,92322
 2004,Summer,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,125083,120087,102672
@@ -1435,7 +1435,7 @@
 2008,Summer,Cycling,"Cycling Men's Road Race, Individual",105246,17857,62253
 2012,Summer,Athletics,Athletics Women's Heptathlon,32710,107888,20486
 1992,Summer,Cycling,Cycling Men's Points Race,71147,124207,76448
-1992,Summer,Synchronized Swimming,Synchronized Swimming Women's Solo,36918,NA,88534
+1992,Summer,Synchronized Swimming,Synchronized Swimming Women's Solo,36918,,88534
 1992,Summer,Synchronized Swimming,Synchronized Swimming Women's Duet,55978,126529,118001
 1996,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,119681,131522,118328
 1972,Summer,Equestrianism,"Equestrianism Mixed Dressage, Individual",70361,94284,84997
@@ -1547,7 +1547,7 @@
 1956,Winter,Alpine Skiing,Alpine Skiing Women's Downhill,19654,25324,129942
 1956,Winter,Alpine Skiing,Alpine Skiing Women's Giant Slalom,99675,36723,49003
 1956,Winter,Alpine Skiing,Alpine Skiing Women's Slalom,22427,107448,56508
-2012,Summer,Swimming,Swimming Men's 200 metres Freestyle,1173,116505,NA
+2012,Summer,Swimming,Swimming Men's 200 metres Freestyle,1173,116505,
 2012,Summer,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,118668,115717,116505
 1948,Summer,Swimming,Swimming Men's 400 metres Freestyle,112198,77769,75414
 1948,Summer,Swimming,"Swimming Men's 1,500 metres Freestyle",77769,75414,80470
@@ -1598,9 +1598,9 @@
 1988,Summer,Gymnastics,Gymnastics Men's Floor Exercise,59207,5396,71644
 1988,Summer,Gymnastics,Gymnastics Men's Horse Vault,71644,64239,91554
 1988,Summer,Gymnastics,Gymnastics Men's Parallel Bars,5396,72706,120462
-1988,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,72706,NA,40003
-1988,Summer,Gymnastics,Gymnastics Men's Rings,11547,NA,120462
-1988,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,39682,NA,NA
+1988,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,72706,,40003
+1988,Summer,Gymnastics,Gymnastics Men's Rings,11547,,120462
+1988,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,39682,,
 1980,Summer,Swimming,Swimming Men's 200 metres Breaststroke,135415,126068,80346
 1980,Summer,Swimming,Swimming Men's 200 metres Butterfly,35078,50691,97724
 1980,Summer,Swimming,Swimming Men's 400 metres Individual Medley,117191,35078,126119
@@ -1681,7 +1681,7 @@
 1932,Summer,Boxing,Boxing Men's Welterweight,35977,17759,1333
 1936,Summer,Boxing,Boxing Men's Middleweight,27840,120348,126643
 1912,Summer,Rowing,Rowing Men's Coxed Eights,131599,130310,126243
-1948,Summer,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",NA,NA,NA
+1948,Summer,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",,,
 1948,Summer,Athletics,"Athletics Men's 5,000 metres",99727,134080,111948
 1936,Summer,Handball,Handball Men's Handball,119547,134239,131105
 1998,Winter,Ice Hockey,Ice Hockey Women's Ice Hockey,130114,130895,123692
@@ -1692,7 +1692,7 @@
 1924,Summer,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",97658,1346,51804
 1928,Summer,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",69065,76804,42148
 1912,Summer,Athletics,Athletics Men's Marathon,77230,40607,115799
-1912,Summer,Wrestling,"Wrestling Men's Middleweight B, Greco-Roman",NA,12817,125244
+1912,Summer,Wrestling,"Wrestling Men's Middleweight B, Greco-Roman",,12817,125244
 1920,Summer,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",70138,45791,86090
 1948,Summer,Swimming,Swimming Women's 100 metres Freestyle,3725,24418,70364
 1948,Summer,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,56797,116915,119281
@@ -1738,9 +1738,9 @@
 1996,Summer,Weightlifting,Weightlifting Men's Heavyweight I,56762,59405,50186
 2004,Summer,Boxing,Boxing Men's Featherweight,120505,60254,117858
 2008,Summer,Athletics,"Athletics Women's 3,000 metres Steeplechase",104992,54610,127202
-1992,Winter,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,123284,NA,66496
-1998,Winter,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA,38284,83902
-1998,Winter,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,3069,NA,112152
+1992,Winter,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,123284,,66496
+1998,Winter,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,,38284,83902
+1998,Winter,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,3069,,112152
 1998,Winter,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,111472,123861,100055
 1928,Summer,Diving,Diving Men's Platform,27799,110620,38078
 1960,Summer,Boxing,Boxing Men's Light-Heavyweight,21948,94778,105741
@@ -1810,8 +1810,8 @@
 1968,Summer,Athletics,Athletics Women's 80 metres Hurdles,17324,59700,20609
 1956,Summer,Gymnastics,Gymnastics Men's Individual All-Around,21402,89187,120548
 1956,Summer,Gymnastics,Gymnastics Men's Team All-Around,120548,122398,116603
-1956,Summer,Gymnastics,Gymnastics Men's Floor Exercise,83446,120051,NA
-1956,Summer,Gymnastics,Gymnastics Men's Horse Vault,83446,NA,120548
+1956,Summer,Gymnastics,Gymnastics Men's Floor Exercise,83446,120051,
+1956,Summer,Gymnastics,Gymnastics Men's Horse Vault,83446,,120548
 1956,Summer,Gymnastics,Gymnastics Men's Parallel Bars,21402,64550,118030
 1956,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,89187,120548,118030
 1956,Summer,Gymnastics,Gymnastics Men's Rings,6300,83446,118030
@@ -1820,12 +1820,12 @@
 1936,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,131341,133190,127432
 1992,Summer,Gymnastics,Gymnastics Men's Individual All-Around,109416,80345,9578
 1992,Summer,Gymnastics,Gymnastics Men's Team All-Around,127520,69529,86501
-1992,Summer,Gymnastics,Gymnastics Men's Floor Exercise,69529,80345,NA
+1992,Summer,Gymnastics,Gymnastics Men's Floor Exercise,69529,80345,
 1992,Summer,Gymnastics,Gymnastics Men's Horse Vault,109416,80345,133351
 1992,Summer,Gymnastics,Gymnastics Men's Parallel Bars,109416,69411,76596
-1992,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,28559,129196,NA
+1992,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,28559,129196,
 1992,Summer,Gymnastics,Gymnastics Men's Rings,109416,69411,129196
-1992,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,109416,NA,129196
+1992,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,109416,,129196
 1988,Winter,Alpine Skiing,Alpine Skiing Women's Giant Slalom,107297,60562,128234
 1988,Winter,Alpine Skiing,Alpine Skiing Women's Slalom,107297,116991,60562
 1956,Summer,Rowing,Rowing Men's Coxed Eights,130313,130888,81341
@@ -1876,7 +1876,7 @@
 2008,Summer,Swimming,Swimming Women's 100 metres Backstroke,23426,23549,49080
 1928,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",66323,75609,111317
 1908,Summer,Athletics,Athletics Men's Marathon,46846,47136,36325
-1900,Summer,Rugby,Rugby Men's Rugby,105848,130824,NA
+1900,Summer,Rugby,Rugby Men's Rugby,105848,130824,
 2000,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",26880,48835,114939
 2000,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",31425,42975,75966
 2004,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",54770,4515,95352
@@ -1886,7 +1886,7 @@
 2012,Summer,Shooting,"Shooting Men's Air Rifle, 10 metres",81097,17815,84516
 2012,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",17815,60080,32517
 2012,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",75966,23589,26880
-1980,Winter,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",52165,132157,NA
+1980,Winter,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",52165,132157,
 1980,Winter,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",121177,85496,97452
 1988,Summer,Swimming,Swimming Women's 100 metres Backstroke,90020,31565,111374
 1988,Summer,Swimming,Swimming Women's 4 x 100 metres Medley Relay,129323,129051,87299
@@ -2116,7 +2116,7 @@
 1988,Summer,Weightlifting,Weightlifting Men's Lightweight,65015,79836,69413
 2008,Summer,Athletics,Athletics Men's 800 metres,16430,52585,132774
 2012,Summer,Athletics,Athletics Men's 800 metres,103274,3512,60939
-2012,Summer,Swimming,Swimming Men's 100 metres Butterfly,94406,67496,NA
+2012,Summer,Swimming,Swimming Men's 100 metres Butterfly,94406,67496,
 2004,Summer,Weightlifting,Weightlifting Men's Lightweight,134459,67778,93706
 1992,Summer,Fencing,"Fencing Men's Sabre, Individual",117316,75056,66230
 1988,Summer,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",60342,122745,121615
@@ -2246,7 +2246,7 @@
 1972,Summer,Athletics,Athletics Men's Discus Throw,25157,110584,15669
 2016,Summer,Athletics,"Athletics Men's 1,500 metres",19335,73857,130734
 1976,Summer,Athletics,Athletics Men's Discus Throw,130471,107151,96625
-2004,Summer,Athletics,Athletics Men's Hammer Throw,83502,NA,4674
+2004,Summer,Athletics,Athletics Men's Hammer Throw,83502,,4674
 2008,Summer,Athletics,Athletics Men's Hammer Throw,63609,27978,120312
 1980,Summer,Athletics,Athletics Men's Shot Put,65568,8385,11143
 1968,Summer,Shooting,"Shooting Mixed Free Rifle, Three Positions, 300 metres",3815,62823,83103
@@ -2415,7 +2415,7 @@
 2010,Winter,Alpine Skiing,Alpine Skiing Women's Super G,35490,77079,59711
 2010,Winter,Alpine Skiing,Alpine Skiing Women's Giant Slalom,99394,77079,41849
 2010,Winter,Alpine Skiing,Alpine Skiing Women's Combined,49178,74318,91797
-2014,Winter,Alpine Skiing,Alpine Skiing Women's Downhill,77079,NA,44137
+2014,Winter,Alpine Skiing,Alpine Skiing Women's Downhill,77079,,44137
 2014,Winter,Alpine Skiing,Alpine Skiing Women's Combined,49178,50161,74318
 1984,Summer,Swimming,Swimming Men's 100 metres Backstroke,18232,130811,129776
 1984,Summer,Swimming,Swimming Men's 200 metres Backstroke,18232,27227,47668
@@ -2425,7 +2425,7 @@
 1968,Summer,Boxing,Boxing Men's Light-Heavyweight,96675,81328,114344
 1968,Summer,Gymnastics,Gymnastics Women's Individual All-Around,18826,127506,64592
 1968,Summer,Gymnastics,Gymnastics Women's Team All-Around,127506,111690,135379
-1968,Summer,Gymnastics,Gymnastics Women's Floor Exercise,94060,NA,64592
+1968,Summer,Gymnastics,Gymnastics Women's Floor Exercise,94060,,64592
 1968,Summer,Gymnastics,Gymnastics Women's Horse Vault,18826,135379,127506
 1968,Summer,Gymnastics,Gymnastics Women's Uneven Bars,18826,53861,127506
 1968,Summer,Gymnastics,Gymnastics Women's Balance Beam,64592,18826,94060
@@ -2530,7 +2530,7 @@
 1996,Summer,Cycling,"Cycling Women's Mountainbike, Cross-Country",94323,117189,27435
 2000,Summer,Cycling,"Cycling Women's Mountainbike, Cross-Country",94323,12206,37596
 1976,Summer,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",70398,25754,99448
-1908,Summer,Lacrosse,Lacrosse Men's Lacrosse,122754,130068,NA
+1908,Summer,Lacrosse,Lacrosse Men's Lacrosse,122754,130068,
 1976,Summer,Swimming,Swimming Women's 100 metres Butterfly,32552,95872,12766
 2010,Winter,Ski Jumping,"Ski Jumping Men's Large Hill, Team",106981,128676,53205
 1972,Summer,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,92131,90638,84729
@@ -2542,7 +2542,7 @@
 1996,Summer,Gymnastics,Gymnastics Men's Horse Vault,85286,132854,109416
 1996,Summer,Gymnastics,Gymnastics Men's Parallel Bars,109284,72626,109416
 1996,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,129196,30643,109416
-1996,Summer,Gymnastics,Gymnastics Men's Rings,20096,24135,NA
+1996,Summer,Gymnastics,Gymnastics Men's Rings,20096,24135,
 1996,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,69334,123534,85286
 2000,Summer,Gymnastics,Gymnastics Men's Floor Exercise,126491,85286,133279
 2000,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,85286,125343,68029
@@ -2651,13 +2651,13 @@
 2012,Summer,Swimming,Swimming Women's 100 metres Butterfly,127216,71926,23519
 1984,Summer,Sailing,Sailing Mixed Two Person Dinghy,81151,114823,94892
 1932,Summer,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",50872,61185,125929
-1936,Summer,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",NA,NA,NA
+1936,Summer,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",,,
 1968,Summer,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",60758,7108,134307
 2012,Summer,Swimming,Swimming Women's 100 metres Freestyle,64249,39672,118439
-2016,Summer,Swimming,Swimming Women's 100 metres Freestyle,88651,NA,111543
+2016,Summer,Swimming,Swimming Women's 100 metres Freestyle,88651,,111543
 1920,Summer,Archery,"Archery Men's Target Archery, 28 metres, Team",130525,124942,100580
-1920,Summer,Archery,"Archery Men's Target Archery, 33 metres, Team",124942,100580,NA
-1920,Summer,Archery,"Archery Men's Target Archery, 50 metres, Team",124942,100580,NA
+1920,Summer,Archery,"Archery Men's Target Archery, 33 metres, Team",124942,100580,
+1920,Summer,Archery,"Archery Men's Target Archery, 50 metres, Team",124942,100580,
 1992,Winter,Short Track Speed Skating,"Short Track Speed Skating Women's 3,000 metres Relay",93527,134928,126991
 1972,Summer,Wrestling,"Wrestling Men's Bantamweight, Freestyle",132426,105324,61287
 1976,Summer,Wrestling,"Wrestling Men's Bantamweight, Freestyle",133446,15670,4784
@@ -2725,9 +2725,9 @@
 1992,Summer,Gymnastics,Gymnastics Women's Individual All-Around,51302,79937,80033
 1992,Summer,Gymnastics,Gymnastics Women's Team All-Around,72682,91861,135165
 1992,Summer,Gymnastics,Gymnastics Women's Floor Exercise,80033,89196,79937
-1992,Summer,Gymnastics,Gymnastics Women's Horse Vault,89196,NA,72682
+1992,Summer,Gymnastics,Gymnastics Women's Horse Vault,89196,,72682
 1992,Summer,Gymnastics,Gymnastics Women's Uneven Bars,71914,51302,79937
-1992,Summer,Gymnastics,Gymnastics Women's Balance Beam,72682,79937,NA
+1992,Summer,Gymnastics,Gymnastics Women's Balance Beam,72682,79937,
 2016,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,125943,77475,103597
 2000,Summer,Athletics,Athletics Women's 400 metres Hurdles,97072,47532,11335
 2004,Summer,Athletics,Athletics Women's 400 metres Hurdles,59087,118631,119265
@@ -2745,7 +2745,7 @@
 1948,Winter,Cross Country Skiing,Cross Country Skiing Men's 18 kilometres,72362,89830,32961
 1948,Winter,Nordic Combined,Nordic Combined Men's Individual,46545,50914,52629
 2000,Summer,Modern Pentathlon,Modern Pentathlon Women's Individual,22864,27712,2877
-1920,Summer,Sailing,Sailing Mixed 12 metres,130271,NA,NA
+1920,Summer,Sailing,Sailing Mixed 12 metres,130271,,
 1912,Summer,Rowing,"Rowing Men's Coxed Fours, Inriggers",92612,130454,88991
 1924,Summer,Rowing,Rowing Men's Coxed Eights,130775,128166,121045
 1976,Winter,Figure Skating,Figure Skating Women's Singles,45263,26348,33053
@@ -2760,11 +2760,11 @@
 2008,Summer,Cycling,Cycling Men's BMX,115836,25815,101431
 1984,Summer,Gymnastics,Gymnastics Men's Individual All-Around,44064,126397,69459
 1984,Summer,Gymnastics,Gymnastics Men's Floor Exercise,69459,71644,125523
-1984,Summer,Gymnastics,Gymnastics Men's Horse Vault,71644,82151,NA
+1984,Summer,Gymnastics,Gymnastics Men's Horse Vault,71644,82151,
 1984,Summer,Gymnastics,Gymnastics Men's Parallel Bars,22692,56742,39209
 1984,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,82151,121031,44064
-1984,Summer,Gymnastics,Gymnastics Men's Rings,69459,NA,39209
-1984,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,126397,NA,24815
+1984,Summer,Gymnastics,Gymnastics Men's Rings,69459,,39209
+1984,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,126397,,24815
 1964,Winter,Figure Skating,Figure Skating Mixed Pairs,97228,130459,55971
 2016,Summer,Swimming,Swimming Men's 200 metres Breaststroke,7133,96858,21439
 1924,Summer,Art Competitions,Art Competitions Mixed Sculpturing,28568,47386,76076
@@ -2829,7 +2829,7 @@
 1948,Summer,Athletics,Athletics Women's Javelin Throw,8742,91852,18347
 1960,Summer,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,131067,132346,131459
 1960,Summer,Swimming,Swimming Men's 100 metres Backstroke,119545,77744,10157
-1920,Summer,Sailing,Sailing Mixed 40 metres,119172,116973,NA
+1920,Summer,Sailing,Sailing Mixed 40 metres,119172,116973,
 1972,Summer,Fencing,"Fencing Men's Foil, Individual",131650,57131,86721
 1976,Summer,Rowing,Rowing Men's Coxed Pairs,123270,110082,125606
 1952,Winter,Alpine Skiing,Alpine Skiing Men's Giant Slalom,32941,96791,113899
@@ -2858,7 +2858,7 @@
 1988,Winter,Alpine Skiing,Alpine Skiing Men's Super G,94579,76982,32973
 2000,Summer,Judo,Judo Men's Lightweight,73173,17650,134296
 2002,Winter,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,49130,13890,111678
-2002,Winter,Cross Country Skiing,Cross Country Skiing Men's 10/10 kilometres Pursuit,33312,NA,32418
+2002,Winter,Cross Country Skiing,Cross Country Skiing Men's 10/10 kilometres Pursuit,33312,,32418
 1996,Summer,Swimming,Swimming Women's 100 metres Backstroke,13860,47081,64039
 2000,Summer,Swimming,Swimming Women's 100 metres Freestyle,25975,3070,121258
 2000,Summer,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,124563,124874,116854
@@ -2982,7 +2982,7 @@
 1996,Summer,Gymnastics,Gymnastics Women's Team All-Around,115870,72589,122536
 1996,Summer,Gymnastics,Gymnastics Women's Floor Exercise,95598,3281,25774
 1996,Summer,Gymnastics,Gymnastics Women's Horse Vault,3281,80714,41040
-1996,Summer,Gymnastics,Gymnastics Women's Uneven Bars,59380,21181,NA
+1996,Summer,Gymnastics,Gymnastics Women's Uneven Bars,59380,21181,
 1996,Summer,Gymnastics,Gymnastics Women's Balance Beam,79937,95598,41040
 2000,Summer,Gymnastics,Gymnastics Women's Individual All-Around,3281,88596,70669
 2000,Summer,Gymnastics,Gymnastics Women's Team All-Around,98220,133869,107925
@@ -3116,7 +3116,7 @@
 1976,Summer,Boxing,Boxing Men's Light-Middleweight,103830,56523,106197
 1992,Summer,Table Tennis,Table Tennis Men's Doubles,128569,102653,133350
 2012,Summer,Weightlifting,Weightlifting Women's Super-Heavyweight,134800,57850,59501
-1992,Winter,Alpine Skiing,Alpine Skiing Women's Giant Slalom,130127,127789,NA
+1992,Winter,Alpine Skiing,Alpine Skiing Women's Giant Slalom,130127,127789,
 1992,Winter,Alpine Skiing,Alpine Skiing Women's Slalom,64253,22138,34894
 2008,Summer,Wrestling,"Wrestling Women's Lightweight, Freestyle",133130,132071,125928
 2012,Summer,Wrestling,"Wrestling Women's Lightweight, Freestyle",133130,125928,100023
@@ -3219,7 +3219,7 @@
 1904,Summer,Gymnastics,Gymnastics Men's Individual All-Around,68714,129162,113874
 1904,Summer,Gymnastics,"Gymnastics Men's Individual All-Around, Field Sports",32512,42822,78994
 1904,Summer,Gymnastics,"Gymnastics Men's Individual All-Around, Apparatus Work",113874,68714,129162
-1928,Summer,Art Competitions,"Art Competitions Mixed Music, Compositions For Solo Or Chorus",NA,NA,NA
+1928,Summer,Art Competitions,"Art Competitions Mixed Music, Compositions For Solo Or Chorus",,,
 2000,Summer,Fencing,"Fencing Women's epee, Individual",84193,44535,35803
 2000,Summer,Fencing,"Fencing Women's epee, Team",132885,102195,132533
 1948,Summer,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",88513,3673,121387
@@ -3339,7 +3339,7 @@
 1908,Summer,Cycling,"Cycling Men's 5,000 metres",55619,106878,5935
 1908,Summer,Cycling,Cycling Men's 20 kilometres,60520,55619,129680
 1908,Summer,Cycling,Cycling Men's 100 kilometres,8293,27642,66622
-1900,Summer,Cricket,Cricket Men's Cricket,120829,120863,NA
+1900,Summer,Cricket,Cricket Men's Cricket,120829,120863,
 1984,Summer,Rowing,Rowing Women's Coxed Eights,120099,121701,124583
 1996,Summer,Athletics,"Athletics Women's 5,000 metres",128498,62437,15775
 2000,Summer,Athletics,"Athletics Women's 5,000 metres",117321,89671,128367
@@ -3361,7 +3361,7 @@
 1976,Summer,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",102263,88612,117327
 1980,Summer,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",91401,116419,28308
 1980,Summer,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",47479,67611,11710
-1912,Summer,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,70278,109576,NA
+1912,Summer,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,70278,109576,
 1948,Summer,Weightlifting,Weightlifting Men's Featherweight,34332,130462,104791
 1952,Summer,Weightlifting,Weightlifting Men's Lightweight,62503,71292,7742
 1908,Summer,Athletics,"Athletics Men's 1,500 metres",109587,130826,45105
@@ -3383,10 +3383,10 @@
 1952,Summer,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",117535,3918,117803
 1976,Summer,Swimming,Swimming Women's 4 x 100 metres Medley Relay,121786,131687,111978
 1932,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",102419,50826,113207
-1928,Winter,Speed Skating,Speed Skating Men's 500 metres,120150,NA,66838
+1928,Winter,Speed Skating,Speed Skating Men's 500 metres,120150,,66838
 1928,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",120150,33492,7304
 1928,Winter,Speed Skating,"Speed Skating Men's 5,000 metres",7304,111842,33492
-1928,Winter,Speed Skating,"Speed Skating Men's 10,000 metres",NA,NA,NA
+1928,Winter,Speed Skating,"Speed Skating Men's 10,000 metres",,,
 1936,Summer,Athletics,Athletics Men's Discus Throw,18455,30678,87769
 1948,Summer,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",49334,10163,14181
 1948,Summer,Canoeing,"Canoeing Men's Canadian Singles, 10,000 metres",18018,46724,66369
@@ -3418,7 +3418,7 @@
 1968,Summer,Swimming,Swimming Women's 200 metres Butterfly,62062,70206,25193
 2004,Summer,Sailing,Sailing Men's Two Person Dinghy,36009,101964,120673
 1996,Summer,Cycling,Cycling Men's Individual Time Trial,52102,88590,12443
-2000,Summer,Cycling,Cycling Men's Individual Time Trial,132807,123256,NA
+2000,Summer,Cycling,Cycling Men's Individual Time Trial,132807,123256,
 1968,Summer,Athletics,Athletics Men's 20 kilometres Walk,49611,92691,112036
 2000,Summer,Judo,Judo Women's Lightweight,34824,41499,92796
 1908,Summer,Water Polo,Water Polo Men's Water Polo,130479,95465,129645
@@ -3467,7 +3467,7 @@
 2012,Summer,Sailing,Sailing Men's Skiff,90144,122556,87260
 1998,Winter,Figure Skating,Figure Skating Women's Singles,70400,65477,20240
 1952,Summer,Boxing,Boxing Men's Middleweight,92108,120533,111528
-1908,Summer,Athletics,Athletics Men's High Jump,96312,113053,NA
+1908,Summer,Athletics,Athletics Men's High Jump,96312,113053,
 1912,Summer,Athletics,Athletics Men's Pentathlon,120088,29319,72192
 1920,Summer,Athletics,Athletics Men's 400 metres Hurdles,71275,87017,27776
 1924,Summer,Athletics,Athletics Men's 400 metres Hurdles,118927,130418,100859
@@ -3491,8 +3491,8 @@
 2006,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,28062,27456,13890
 1924,Summer,Boxing,Boxing Men's Bantamweight,112442,121951,19454
 1920,Summer,Gymnastics,Gymnastics Men's Team All-Around,135262,127855,128812
-1896,Summer,Athletics,Athletics Men's 110 metres Hurdles,24423,42069,NA
-1896,Summer,Swimming,"Swimming Men's 1,200 metres Freestyle",44875,4116,NA
+1896,Summer,Athletics,Athletics Men's 110 metres Hurdles,24423,42069,
+1896,Summer,Swimming,"Swimming Men's 1,200 metres Freestyle",44875,4116,
 2012,Summer,Shooting,Shooting Women's Skeet,100315,129289,8234
 1998,Winter,Curling,Curling Men's Curling,93531,106182,121340
 1956,Summer,Sailing,Sailing Mixed Three Person Keelboat,130374,127294,74483
@@ -3522,7 +3522,7 @@
 1904,Summer,Cycling,Cycling Men's 5 mile,106953,130421,4153
 1904,Summer,Cycling,Cycling Men's 25 mile,29791,4153,130421
 2016,Summer,Athletics,"Athletics Women's 10,000 metres",6204,20525,28313
-1932,Summer,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",NA,NA,NA
+1932,Summer,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",,,
 2014,Winter,Curling,Curling Men's Curling,53186,83467,70064
 1908,Summer,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",106878,55471,52404
 2008,Summer,Athletics,Athletics Men's Pole Vault,49812,72208,133512
@@ -3536,7 +3536,7 @@
 1984,Winter,Alpine Skiing,Alpine Skiing Women's Giant Slalom,5156,22926,92820
 1984,Winter,Alpine Skiing,Alpine Skiing Women's Slalom,73481,92820,62609
 1976,Summer,Boxing,Boxing Men's Bantamweight,43435,81627,103819
-1936,Summer,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",NA,NA,NA
+1936,Summer,Art Competitions,"Art Competitions Mixed Painting, Unknown Event",,,
 1896,Summer,Gymnastics,Gymnastics Men's Rope Climbing,4189,131985,49185
 1972,Summer,Judo,Judo Men's Half-Middleweight,86804,133747,87142
 1972,Summer,Judo,Judo Men's Heavyweight,103576,40674,89123
@@ -3672,7 +3672,7 @@
 1956,Winter,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,119255,126497,105072
 1960,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,45187,44916,98620
 1900,Summer,Water Polo,Water Polo Men's Water Polo,114396,123394,125492
-2016,Summer,Swimming,Swimming Men's 100 metres Butterfly,107436,94406,NA
+2016,Summer,Swimming,Swimming Men's 100 metres Butterfly,107436,94406,
 1992,Summer,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",62161,44400,49457
 1992,Summer,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",101425,49457,8330
 1964,Summer,Athletics,Athletics Men's 400 metres Hurdles,19169,22941,81759
@@ -3701,7 +3701,7 @@
 2006,Winter,Bobsleigh,Bobsleigh Men's Two,66421,72115,47140
 1988,Winter,Figure Skating,Figure Skating Mixed Ice Dancing,16301,96037,130901
 1984,Summer,Athletics,Athletics Men's High Jump,80854,111505,134843
-1896,Summer,Swimming,Swimming Men's 100 metres Freestyle,44875,48195,NA
+1896,Summer,Swimming,Swimming Men's 100 metres Freestyle,44875,48195,
 1920,Summer,Swimming,Swimming Men's 400 metres Freestyle,102704,66457,126109
 1920,Summer,Swimming,"Swimming Men's 1,500 metres Freestyle",102704,126109,9094
 1924,Summer,Swimming,Swimming Men's 400 metres Freestyle,129469,13447,19920
@@ -3714,7 +3714,7 @@
 2000,Summer,Judo,Judo Women's Half-Heavyweight,118424,67668,100619
 1920,Summer,Rowing,Rowing Men's Double Sculls,58597,29360,95434
 1964,Summer,Athletics,Athletics Women's Long Jump,11437,117509,109403
-1936,Summer,Art Competitions,"Art Competitions Mixed Painting, Paintings",NA,31770,37529
+1936,Summer,Art Competitions,"Art Competitions Mixed Painting, Paintings",,31770,37529
 2016,Summer,Fencing,"Fencing Men's epee, Team",72025,105556,113034
 1964,Summer,Diving,Diving Women's Springboard,43787,22434,130503
 1968,Summer,Diving,Diving Women's Springboard,41970,34419,89666
@@ -3741,7 +3741,7 @@
 1968,Summer,Athletics,Athletics Women's Javelin Throw,85275,92995,53697
 1976,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,109338,115585,6638
 1896,Summer,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",89416,36739,54456
-1932,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",NA,NA,NA
+1932,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",,,
 1952,Summer,Athletics,Athletics Women's 4 x 100 metres Relay,81886,105310,36498
 2006,Winter,Snowboarding,Snowboarding Women's Boardercross,37179,53178,74201
 2010,Winter,Snowboarding,Snowboarding Women's Boardercross,100633,4503,86698
@@ -3795,7 +3795,7 @@
 1996,Summer,Badminton,Badminton Men's Doubles,116120,132634,57284
 1924,Summer,Athletics,"Athletics Men's 1,500 metres",87390,106609,114222
 1964,Winter,Speed Skating,"Speed Skating Men's 10,000 metres",86400,73639,55072
-1968,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",126047,106724,NA
+1968,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",126047,106724,
 2010,Winter,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,56898,112131,11943
 2010,Winter,Cross Country Skiing,Cross Country Skiing Women's 15 km Skiathlon,11943,44433,63507
 2010,Winter,Cross Country Skiing,Cross Country Skiing Women's 4 x 5 kilometres Relay,114859,134287,103975
@@ -3867,7 +3867,7 @@
 1976,Winter,Speed Skating,"Speed Skating Women's 1,000 metres",6095,96545,133235
 1976,Winter,Speed Skating,"Speed Skating Women's 1,500 metres",114961,133235,6095
 1976,Winter,Speed Skating,"Speed Skating Women's 3,000 metres",6095,31659,62905
-1912,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,73004,93623,NA
+1912,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,73004,93623,
 1928,Summer,Wrestling,"Wrestling Men's Welterweight, Freestyle",44498,4737,69032
 1908,Summer,Archery,Archery Women's Double National Round,85547,29039,48607
 2016,Summer,Judo,Judo Men's Half-Heavyweight,64292,97740,74942
@@ -3891,7 +3891,7 @@
 2000,Summer,Judo,Judo Men's Half-Middleweight,118059,54976,27286
 2016,Summer,Athletics,Athletics Men's 50 kilometres Walk,121412,118133,4782
 1972,Winter,Luge,Luge Men's Singles,106678,31657,35179
-1972,Winter,Luge,Luge Mixed (Men)'s Doubles,95334,NA,35179
+1972,Winter,Luge,Luge Mixed (Men)'s Doubles,95334,,35179
 1968,Summer,Rowing,Rowing Men's Coxed Eights,123229,109883,116676
 1996,Summer,Fencing,"Fencing Women's epee, Individual",35803,7920,117382
 1996,Summer,Fencing,"Fencing Women's epee, Team",81984,133819,77091
@@ -3935,18 +3935,18 @@
 1988,Summer,Basketball,Basketball Women's Basketball,129070,126551,134077
 1956,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",114276,49028,111643
 1900,Summer,Equestrianism,Equestrianism Mixed Hacks And Hunter Combined,83439,4914,26465
-1960,Summer,Athletics,Athletics Women's High Jump,7143,109885,NA
+1960,Summer,Athletics,Athletics Women's High Jump,7143,109885,
 2000,Summer,Badminton,Badminton Mixed Doubles,134490,120423,131737
 2000,Summer,Badminton,Badminton Men's Doubles,130336,133389,59848
-2002,Winter,Figure Skating,Figure Skating Mixed Pairs,110404,NA,134641
+2002,Winter,Figure Skating,Figure Skating Mixed Pairs,110404,,134641
 1980,Winter,Alpine Skiing,Alpine Skiing Women's Downhill,82412,129665,84028
-1908,Summer,Athletics,Athletics Men's Pole Vault,40257,NA,112718
+1908,Summer,Athletics,Athletics Men's Pole Vault,40257,,112718
 1984,Summer,Fencing,"Fencing Men's Sabre, Team",106438,66230,117356
 2008,Summer,Boxing,Boxing Men's Featherweight,71127,28862,59722
 2016,Summer,Boxing,Boxing Men's Welterweight,132813,40641,98057
 1936,Summer,Athletics,Athletics Women's High Jump,24070,87974,58083
 1964,Summer,Athletics,Athletics Women's 4 x 100 metres Relay,117509,130031,110884
-1948,Summer,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",NA,NA,NA
+1948,Summer,Art Competitions,"Art Competitions Mixed Architecture, Unknown Event",,,
 1924,Summer,Art Competitions,Art Competitions Mixed Literature,39527,115924,41434
 1920,Summer,Cycling,"Cycling Men's Road Race, Individual",114927,56979,17966
 1920,Summer,Cycling,"Cycling Men's Road Race, Team",113404,114927,131925
@@ -3959,7 +3959,7 @@
 1912,Summer,Tennis,Tennis Men's Singles,131024,60928,64014
 2012,Summer,Athletics,Athletics Men's Pole Vault,67233,90013,49626
 2016,Summer,Athletics,Athletics Men's Pole Vault,14810,67233,58688
-1920,Summer,Sailing,Sailing Mixed 10 metres,113597,NA,NA
+1920,Summer,Sailing,Sailing Mixed 10 metres,113597,,
 1948,Summer,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",94211,46489,58229
 1968,Summer,Athletics,"Athletics Men's 1,500 metres",58429,103917,122606
 1936,Summer,Athletics,Athletics Men's 400 metres Hurdles,45983,70896,130008
@@ -3979,7 +3979,7 @@
 2016,Summer,Boxing,Boxing Men's Light-Flyweight,30884,75850,48058
 2004,Summer,Fencing,"Fencing Women's Sabre, Individual",133685,118297,53228
 1932,Summer,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",90594,119998,127409
-1932,Summer,Equestrianism,"Equestrianism Men's Three-Day Event, Team",119998,124746,NA
+1932,Summer,Equestrianism,"Equestrianism Men's Three-Day Event, Team",119998,124746,
 1948,Summer,Boxing,Boxing Men's Lightweight,30013,126859,123734
 1924,Summer,Athletics,Athletics Men's Pentathlon,68431,113035,68307
 1996,Summer,Cycling,"Cycling Men's Mountainbike, Cross-Country",14959,37249,75814
@@ -4004,7 +4004,7 @@
 1924,Summer,Modern Pentathlon,Modern Pentathlon Men's Individual,70193,31084,123159
 1964,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",130306,125771,45336
 1980,Summer,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,107080,93921,124962
-1984,Summer,Swimming,Swimming Women's 100 metres Freestyle,114853,NA,126145
+1984,Summer,Swimming,Swimming Women's 100 metres Freestyle,114853,,126145
 1952,Summer,Athletics,Athletics Women's 100 metres,53136,101239,115768
 1956,Summer,Athletics,Athletics Women's 100 metres,24448,115943,76406
 1956,Summer,Athletics,Athletics Women's 200 metres,24448,115943,76406
@@ -4085,7 +4085,7 @@
 1976,Summer,Gymnastics,Gymnastics Women's Individual All-Around,22570,60182,122726
 1976,Summer,Gymnastics,Gymnastics Women's Team All-Around,122726,123353,63691
 1976,Summer,Gymnastics,Gymnastics Women's Floor Exercise,60182,122726,22570
-1976,Summer,Gymnastics,Gymnastics Women's Horse Vault,60182,122726,NA
+1976,Summer,Gymnastics,Gymnastics Women's Horse Vault,60182,122726,
 1976,Summer,Gymnastics,Gymnastics Women's Uneven Bars,22570,123353,31566
 1976,Summer,Gymnastics,Gymnastics Women's Balance Beam,22570,62738,123353
 2012,Summer,Swimming,Swimming Women's 200 metres Freestyle,107185,82877,8051
@@ -4165,7 +4165,7 @@
 1960,Winter,Speed Skating,"Speed Skating Women's 3,000 metres",111696,114920,51317
 1964,Winter,Speed Skating,Speed Skating Women's 500 metres,111696,132790,110222
 1964,Winter,Speed Skating,"Speed Skating Women's 1,000 metres",111696,132790,83728
-1964,Winter,Speed Skating,"Speed Skating Women's 3,000 metres",111696,114920,NA
+1964,Winter,Speed Skating,"Speed Skating Women's 3,000 metres",111696,114920,
 1968,Winter,Speed Skating,"Speed Skating Women's 1,000 metres",39367,120549,49613
 1968,Winter,Speed Skating,"Speed Skating Women's 1,500 metres",83728,39367,6398
 1968,Winter,Speed Skating,"Speed Skating Women's 3,000 metres",107778,83728,6398
@@ -4195,7 +4195,7 @@
 2008,Summer,Shooting,"Shooting Women's Air Pistol, 10 metres",43981,90469,104879
 1980,Summer,Weightlifting,Weightlifting Men's Heavyweight I,134015,86211,12119
 1972,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",119008,93924,52296
-1908,Summer,Sailing,Sailing Mixed 12 metres,117845,113749,NA
+1908,Summer,Sailing,Sailing Mixed 12 metres,117845,113749,
 1896,Summer,Cycling,"Cycling Men's Road Race, Individual",62552,40985,8620
 1964,Summer,Athletics,Athletics Men's Hammer Throw,61238,135313,11145
 1952,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",122309,118056,44007
@@ -4208,17 +4208,17 @@
 1956,Summer,Gymnastics,Gymnastics Women's Individual All-Around,67046,58489,83448
 1956,Summer,Gymnastics,Gymnastics Women's Team All-Around,132792,118708,125511
 1956,Summer,Gymnastics,Gymnastics Women's Team Portable Apparatus,118708,102424,132792
-1956,Summer,Gymnastics,Gymnastics Women's Floor Exercise,67046,NA,69094
+1956,Summer,Gymnastics,Gymnastics Women's Floor Exercise,67046,,69094
 1956,Summer,Gymnastics,Gymnastics Women's Horse Vault,67046,74463,118708
 1956,Summer,Gymnastics,Gymnastics Women's Uneven Bars,58489,67046,83448
-1956,Summer,Gymnastics,Gymnastics Women's Balance Beam,58489,74463,NA
+1956,Summer,Gymnastics,Gymnastics Women's Balance Beam,58489,74463,
 1996,Summer,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",29140,61455,97482
 1996,Summer,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",29140,61177,133818
 1980,Summer,Swimming,"Swimming Men's 1,500 metres Freestyle",104827,20065,79143
 1984,Summer,Swimming,Swimming Men's 200 metres Freestyle,43151,46998,33770
 1984,Summer,Swimming,Swimming Men's 400 metres Freestyle,28327,83888,68622
 1932,Summer,Sailing,Sailing Mixed Two Person Keelboat,69646,99124,116553
-1908,Summer,Athletics,Athletics Men's 400 metres,45140,NA,NA
+1908,Summer,Athletics,Athletics Men's 400 metres,45140,,
 1908,Summer,Racquets,Racquets Men's Singles,86723,67568,15435
 1908,Summer,Racquets,Racquets Men's Doubles,93046,16786,86723
 1924,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,115097,129479,120997
@@ -4254,7 +4254,7 @@
 2012,Summer,Swimming,Swimming Women's 200 metres Breaststroke,113169,116828,132765
 2016,Summer,Swimming,Swimming Women's 100 metres Breaststroke,60494,132765,78267
 2012,Summer,Triathlon,Triathlon Men's Olympic Distance,15627,41302,15628
-1908,Summer,Motorboating,Motorboating Mixed A-Class (Open),120129,NA,NA
+1908,Summer,Motorboating,Motorboating Mixed A-Class (Open),120129,,
 2000,Summer,Swimming,Swimming Women's 400 metres Freestyle,10160,83392,95868
 2000,Summer,Swimming,Swimming Women's 800 metres Freestyle,10160,61330,105305
 2004,Summer,Swimming,Swimming Women's 200 metres Freestyle,96448,92854,35269
@@ -4286,7 +4286,7 @@
 2002,Winter,Speed Skating,Speed Skating Women's 500 metres,67528,38480,127172
 2002,Winter,Speed Skating,"Speed Skating Women's 1,000 metres",131183,127172,101779
 1920,Summer,Athletics,"Athletics Men's 1,500 metres",48552,7031,109725
-1948,Winter,Speed Skating,Speed Skating Men's 500 metres,47400,35627,NA
+1948,Winter,Speed Skating,Speed Skating Men's 500 metres,47400,35627,
 1948,Winter,Speed Skating,"Speed Skating Men's 1,500 metres",34175,109021,72277
 2004,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,130725,114710,129338
 1980,Summer,Rowing,Rowing Men's Coxless Pairs,66357,94904,130308
@@ -4298,13 +4298,13 @@
 1992,Summer,Athletics,Athletics Women's Shot Put,64145,50673,85133
 2016,Summer,Wrestling,"Wrestling Women's Flyweight, Freestyle",121345,114160,132603
 1920,Summer,Modern Pentathlon,Modern Pentathlon Men's Individual,31084,26341,103504
-1936,Summer,Art Competitions,"Art Competitions Mixed Literature, Unknown Event",NA,NA,NA
+1936,Summer,Art Competitions,"Art Competitions Mixed Literature, Unknown Event",,,
 1900,Summer,Sailing,Sailing Mixed 0.5-1 Ton,76805,124115,124115
-1948,Summer,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",NA,28501,28501
+1948,Summer,Art Competitions,"Art Competitions Mixed Painting, Applied Arts",,28501,28501
 1936,Winter,Figure Skating,Figure Skating Men's Singles,106550,6868,57884
 1928,Summer,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",118710,124384,131933
 1900,Summer,Croquet,"Croquet Mixed Singles, One Ball",5989,55286,129049
-1900,Summer,Croquet,Croquet Mixed Doubles,55286,NA,NA
+1900,Summer,Croquet,Croquet Mixed Doubles,55286,,
 1964,Summer,Athletics,Athletics Men's Decathlon,49328,5991,128039
 2012,Summer,Judo,Judo Women's Half-Heavyweight,46207,40139,118970
 1980,Winter,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,128857,79514,5993
@@ -4408,7 +4408,7 @@
 1932,Summer,Boxing,Boxing Men's Middleweight,8246,6292,92767
 1996,Summer,Athletics,Athletics Women's 200 metres,93169,90007,89220
 2008,Summer,Wrestling,"Wrestling Men's Lightweight, Freestyle",8655,34416,133448
-1992,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,28558,110294,NA
+1992,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,28558,110294,
 2008,Summer,Athletics,Athletics Women's 400 metres Hurdles,128123,55488,25315
 2000,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,125504,133060,118747
 1952,Summer,Athletics,Athletics Men's High Jump,25669,130291,24635
@@ -4434,7 +4434,7 @@
 2004,Summer,Swimming,Swimming Women's 4 x 100 metres Medley Relay,119835,129402,124146
 1948,Summer,Athletics,Athletics Men's 50 kilometres Walk,70785,40951,55422
 1924,Summer,Boxing,Boxing Men's Lightweight,85978,22977,14381
-1968,Winter,Speed Skating,Speed Skating Women's 500 metres,120549,79249,NA
+1968,Winter,Speed Skating,Speed Skating Women's 500 metres,120549,79249,
 1972,Winter,Speed Skating,"Speed Skating Women's 1,500 metres",49613,6398,58978
 1912,Summer,Athletics,Athletics Men's Pole Vault,6440,131713,123159
 2008,Summer,Athletics,Athletics Men's High Jump,110475,76156,103820
@@ -4524,7 +4524,7 @@
 1968,Summer,Boxing,Boxing Men's Flyweight,27290,88640,103753
 1984,Summer,Rowing,Rowing Women's Coxed Quadruple Sculls,118571,102015,113583
 1972,Summer,Athletics,Athletics Men's 50 kilometres Walk,57263,112880,133222
-1920,Summer,Rugby,Rugby Men's Rugby,131676,119686,NA
+1920,Summer,Rugby,Rugby Men's Rugby,131676,119686,
 2002,Winter,Bobsleigh,Bobsleigh Women's Two,35958,97149,48194
 1988,Winter,Speed Skating,"Speed Skating Women's 1,500 metres",124607,32700,31659
 1988,Winter,Speed Skating,"Speed Skating Women's 3,000 metres",124607,31659,133941
@@ -4623,7 +4623,7 @@
 2010,Winter,Snowboarding,Snowboarding Men's Boardercross,129738,101371,98684
 2014,Winter,Snowboarding,Snowboarding Men's Boardercross,125535,89028,27049
 2012,Summer,Shooting,"Shooting Men's Free Pistol, 50 metres",54882,21082,128653
-1972,Summer,Judo,Judo Men's Lightweight,58156,NA,82599
+1972,Summer,Judo,Judo Men's Lightweight,58156,,82599
 1936,Summer,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",65291,74764,115215
 1972,Summer,Modern Pentathlon,Modern Pentathlon Men's Individual,7194,89227,67759
 1972,Summer,Modern Pentathlon,Modern Pentathlon Men's Team,109945,126621,104811
@@ -4639,7 +4639,7 @@
 1988,Winter,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",87525,55307,26870
 1988,Winter,Ski Jumping,"Ski Jumping Men's Large Hill, Team",133014,135447,61012
 2016,Summer,Swimming,Swimming Men's 100 metres Breaststroke,92529,124348,79881
-1956,Summer,Athletics,Athletics Women's High Jump,77436,95183,NA
+1956,Summer,Athletics,Athletics Women's High Jump,77436,95183,
 1964,Summer,Athletics,Athletics Women's High Jump,7143,76172,20347
 1980,Summer,Sailing,Sailing Mixed One Person Dinghy,99423,77058,7146
 2000,Summer,Athletics,Athletics Women's Hammer Throw,111728,65345,83258
@@ -4661,7 +4661,7 @@
 2008,Summer,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",93286,130285,94189
 2012,Summer,Canoeing,"Canoeing Men's Kayak Singles, 200 metres",77674,23703,26216
 2004,Summer,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",131571,130311,121239
-1936,Summer,Weightlifting,Weightlifting Men's Lightweight,82630,NA,53772
+1936,Summer,Weightlifting,Weightlifting Men's Lightweight,82630,,53772
 1988,Summer,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",113799,67686,20455
 1920,Summer,Fencing,"Fencing Men's Sabre, Individual",84026,84025,26196
 1920,Summer,Fencing,"Fencing Men's Sabre, Team",123437,122020,134266
@@ -4722,10 +4722,10 @@
 1948,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,57646,32895,125156
 1948,Winter,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,118546,110574,88550
 1952,Winter,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,44916,62159,33291
-1936,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",NA,NA,NA
+1936,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",,,
 2000,Summer,Boxing,Boxing Men's Light-Middleweight,51578,110690,120021
 1984,Summer,Wrestling,"Wrestling Men's Welterweight, Freestyle",107660,61557,108376
-1924,Summer,Art Competitions,Art Competitions Mixed Music,NA,NA,NA
+1924,Summer,Art Competitions,Art Competitions Mixed Music,,,
 1976,Winter,Speed Skating,"Speed Skating Men's 5,000 metres",114929,61149,124654
 2006,Winter,Bobsleigh,Bobsleigh Women's Two,107304,102011,129466
 1932,Summer,Rowing,Rowing Men's Coxed Fours,113964,125522,123431
@@ -4784,7 +4784,7 @@
 1968,Summer,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",121830,71002,124729
 1900,Summer,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres",58499,85949,124156
 1900,Summer,Shooting,"Shooting Men's Free Rifle, Three Positions, 300 metres, Team",114177,108195,119839
-1900,Summer,Shooting,"Shooting Men's Free Rifle, Kneeling, 300 metres",114177,85949,NA
+1900,Summer,Shooting,"Shooting Men's Free Rifle, Kneeling, 300 metres",114177,85949,
 1900,Summer,Shooting,"Shooting Men's Free Rifle, Prone, 300 metres",91740,85949,89913
 1900,Summer,Shooting,"Shooting Men's Free Rifle, Standing, 300 metres",73260,89913,92232
 1968,Winter,Luge,Luge Women's Singles,67689,107221,30651
@@ -4842,7 +4842,7 @@
 2010,Winter,Freestyle Skiing,Freestyle Skiing Men's Moguls,11537,9371,130799
 2014,Winter,Freestyle Skiing,Freestyle Skiing Men's Moguls,11537,60524,112516
 1992,Winter,Figure Skating,Figure Skating Men's Singles,94032,131942,7933
-1912,Summer,Art Competitions,Art Competitions Mixed Music,8272,NA,NA
+1912,Summer,Art Competitions,Art Competitions Mixed Music,8272,,
 1968,Summer,Athletics,Athletics Women's High Jump,50752,88485,63621
 1936,Summer,Boxing,Boxing Men's Bantamweight,108828,130835,89580
 2008,Summer,Wrestling,"Wrestling Men's Welterweight, Freestyle",104310,114159,122850
@@ -4851,7 +4851,7 @@
 2014,Winter,Biathlon,Biathlon Women's 15 kilometres,29305,38977,111598
 1928,Summer,Athletics,Athletics Men's Pole Vault,18485,30062,77551
 1924,Summer,Shooting,"Shooting Men's Trap, Team",110464,125039,129248
-1908,Summer,Rugby,Rugby Men's Rugby,112193,130791,NA
+1908,Summer,Rugby,Rugby Men's Rugby,112193,130791,
 1992,Summer,Weightlifting,Weightlifting Men's Heavyweight I,121781,117834,73954
 1996,Summer,Weightlifting,Weightlifting Men's Heavyweight II,117834,117282,126957
 2004,Summer,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,121549,135522,131565
@@ -4977,7 +4977,7 @@
 1996,Summer,Judo,Judo Women's Lightweight,41499,54581,71136
 2010,Winter,Cross Country Skiing,Cross Country Skiing Men's Team Sprint,94217,122238,94273
 1896,Summer,Cycling,Cycling Men's 333 metres Time Trial,76252,86280,107006
-1896,Summer,Cycling,Cycling Men's 100 kilometres,35708,62185,NA
+1896,Summer,Cycling,Cycling Men's 100 kilometres,35708,62185,
 1992,Winter,Freestyle Skiing,Freestyle Skiing Women's Moguls,129373,63572,46592
 1994,Winter,Freestyle Skiing,Freestyle Skiing Women's Moguls,46592,77645,63572
 1998,Winter,Freestyle Skiing,Freestyle Skiing Women's Moguls,106062,80516,121592
@@ -5010,7 +5010,7 @@
 1936,Summer,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",74764,67374,87405
 1984,Summer,Shooting,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",131832,49478,54709
 2010,Winter,Biathlon,Biathlon Men's 15 kilometres Mass Start,123616,36512,51117
-1932,Summer,Art Competitions,Art Competitions Mixed Literature,8713,93875,NA
+1932,Summer,Art Competitions,Art Competitions Mixed Literature,8713,93875,
 1900,Summer,Athletics,Athletics Men's Discus Throw,8716,53583,109494
 2004,Summer,Fencing,"Fencing Women's Foil, Individual",126257,121922,43286
 1924,Summer,Swimming,Swimming Women's 100 metres Backstroke,8720,45988,100797
@@ -5156,7 +5156,7 @@
 1976,Summer,Rowing,Rowing Women's Coxed Fours,107892,133099,108994
 1906,Summer,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",129199,70200,9430
 2016,Summer,Taekwondo,Taekwondo Men's Welterweight,21695,82902,90085
-1924,Summer,Rowing,Rowing Men's Coxless Pairs,102648,95081,NA
+1924,Summer,Rowing,Rowing Men's Coxless Pairs,102648,95081,
 1936,Winter,Alpine Skiing,Alpine Skiing Women's Combined,23690,42448,86349
 2000,Summer,Boxing,Boxing Men's Lightweight,60445,63189,74034
 1996,Summer,Fencing,"Fencing Men's epee, Individual",9495,121860,52053
@@ -5188,7 +5188,7 @@
 2008,Summer,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",49006,127162,66710
 1992,Summer,Judo,Judo Women's Middleweight,100162,94693,98493
 1900,Summer,Fencing,"Fencing Men's Foil, Individual",23334,76249,14037
-1980,Summer,Athletics,Athletics Men's Pole Vault,63549,127190,NA
+1980,Summer,Athletics,Athletics Men's Pole Vault,63549,127190,
 2012,Summer,Tennis,Tennis Men's Doubles,15882,122349,38989
 1964,Summer,Swimming,Swimming Women's 400 metres Freestyle,30411,98615,115207
 1964,Summer,Swimming,Swimming Women's 400 metres Individual Medley,26731,35438,98822
@@ -5222,7 +5222,7 @@
 2008,Summer,Diving,Diving Women's Synchronized Platform,128605,131803,89611
 2016,Summer,Diving,Diving Women's Synchronized Platform,70592,100942,35311
 1984,Winter,Speed Skating,"Speed Skating Men's 10,000 metres",74107,44085,107371
-1920,Summer,Sailing,Sailing Mixed 30 metres,114705,NA,NA
+1920,Summer,Sailing,Sailing Mixed 30 metres,114705,,
 1980,Summer,Sailing,Sailing Mixed Two Person Dinghy,112616,117118,118125
 1996,Summer,Badminton,Badminton Women's Doubles,43423,53620,118441
 1952,Summer,Athletics,Athletics Men's Javelin Throw,133194,79871,51469
@@ -5236,7 +5236,7 @@
 1948,Summer,Athletics,Athletics Men's Hammer Throw,85257,43490,10158
 1900,Summer,Athletics,"Athletics Men's 1,500 metres",10161,27384,14802
 1900,Summer,Athletics,"Athletics Men's 4,000 metres Steeplechase",100882,10161,101468
-1900,Summer,Athletics,"Athletics Men's 5,000 metres, Team",122978,98322,NA
+1900,Summer,Athletics,"Athletics Men's 5,000 metres, Team",122978,98322,
 1948,Summer,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",64654,73081,38279
 1932,Winter,Figure Skating,Figure Skating Women's Singles,47618,16527,126761
 1972,Summer,Cycling,"Cycling Men's 1,000 metres Time Trial",36922,21788,107799
@@ -5325,7 +5325,7 @@
 2006,Winter,Figure Skating,Figure Skating Men's Singles,95546,66172,16963
 1972,Summer,Fencing,"Fencing Men's Foil, Team",131650,114350,118160
 2004,Summer,Rowing,Rowing Men's Quadruple Sculls,117007,62706,109255
-1932,Summer,Art Competitions,Art Competitions Mixed Unknown Event,NA,NA,NA
+1932,Summer,Art Competitions,Art Competitions Mixed Unknown Event,,,
 2016,Summer,Athletics,Athletics Women's Hammer Throw,131193,134559,48858
 1928,Summer,Wrestling,"Wrestling Men's Lightweight, Freestyle",57352,90453,68501
 1924,Summer,Boxing,Boxing Men's Heavyweight,127396,93901,96358
@@ -5344,15 +5344,15 @@
 1980,Summer,Athletics,Athletics Women's 800 metres,88798,117279,97254
 2012,Summer,Athletics,Athletics Women's Hammer Throw,72681,131193,47198
 1900,Summer,Athletics,Athletics Men's Marathon,119534,19658,34204
-1948,Summer,Art Competitions,"Art Competitions Mixed Literature, Unknown Event",NA,NA,NA
+1948,Summer,Art Competitions,"Art Competitions Mixed Literature, Unknown Event",,,
 1936,Summer,Athletics,Athletics Men's 200 metres,90226,101458,89728
 2008,Summer,Diving,Diving Men's Springboard,46922,27839,97771
 1992,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",53128,134408,59024
 2012,Summer,Boxing,Boxing Men's Heavyweight,123572,103641,97490
 1936,Summer,Athletics,"Athletics Men's 3,000 metres Steeplechase",52607,122647,29304
-1920,Summer,Sailing,Sailing Mixed 12 foot,48661,124344,NA
+1920,Summer,Sailing,Sailing Mixed 12 foot,48661,124344,
 1960,Winter,Alpine Skiing,Alpine Skiing Women's Downhill,11343,95240,47037
-1932,Summer,Art Competitions,Art Competitions Mixed Music,NA,116283,NA
+1932,Summer,Art Competitions,Art Competitions Mixed Music,,116283,
 1992,Summer,Boxing,Boxing Men's Light-Middleweight,68685,27308,99712
 1984,Summer,Swimming,Swimming Women's 100 metres Butterfly,77995,55397,108306
 1984,Summer,Swimming,Swimming Women's 200 metres Butterfly,77995,94483,11147
@@ -5363,13 +5363,13 @@
 1976,Summer,Sailing,Sailing Mixed Multihull,130012,102885,113796
 1924,Winter,Speed Skating,"Speed Skating Men's 5,000 metres",120150,111842,66838
 1924,Winter,Speed Skating,"Speed Skating Men's 10,000 metres",111842,120150,66838
-1936,Summer,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",NA,NA,NA
-1948,Summer,Art Competitions,"Art Competitions Mixed Music, Vocals",NA,NA,11253
+1936,Summer,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",,,
+1948,Summer,Art Competitions,"Art Competitions Mixed Music, Vocals",,,11253
 1948,Winter,Bobsleigh,Bobsleigh Men's Two,128202,34465,36396
-1932,Summer,Sailing,Sailing Mixed 8 metres,129187,128159,NA
+1932,Summer,Sailing,Sailing Mixed 8 metres,129187,128159,
 2008,Summer,Rowing,Rowing Women's Coxless Pairs,116663,131842,39395
 1924,Summer,Weightlifting,Weightlifting Men's Lightweight,26940,135521,30820
-1948,Summer,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",NA,NA,NA
+1948,Summer,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",,,
 1976,Summer,Weightlifting,Weightlifting Men's Featherweight,62174,120677,48749
 1988,Summer,Wrestling,"Wrestling Men's Heavyweight, Freestyle",97612,59010,106773
 1908,Summer,Jeu De Paume,Jeu De Paume Men's Singles,42060,79794,72692
@@ -5397,11 +5397,11 @@
 1904,Summer,Cycling,Cycling Men's 1 mile,51135,29791,11528
 1904,Summer,Cycling,Cycling Men's 2 mile,29791,41013,51135
 1952,Summer,Weightlifting,Weightlifting Men's Bantamweight,123090,84447,80301
-1948,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Plaques",NA,119650,42828
+1948,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Plaques",,119650,42828
 1980,Summer,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",28537,13155,89651
 1980,Summer,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",94014,131007,111876
 1928,Summer,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",130266,11599,129581
-1908,Summer,Sailing,Sailing Mixed 7 metres,101165,NA,NA
+1908,Summer,Sailing,Sailing Mixed 7 metres,101165,,
 1976,Summer,Athletics,Athletics Men's 110 metres Hurdles,30135,18740,25546
 1976,Summer,Rowing,Rowing Men's Single Sculls,57723,62140,29970
 1928,Summer,Boxing,Boxing Men's Featherweight,124710,93137,27953
@@ -5452,7 +5452,7 @@
 1984,Summer,Judo,Judo Men's Open Class,132377,98979,107233
 1928,Summer,Athletics,Athletics Men's Triple Jump,87968,18805,122875
 1948,Summer,Athletics,Athletics Women's 200 metres,12166,130712,92115
-1968,Winter,Speed Skating,Speed Skating Men's 500 metres,58506,119859,NA
+1968,Winter,Speed Skating,Speed Skating Men's 500 metres,58506,119859,
 2008,Summer,Swimming,Swimming Men's 10 kilometres Open Water,124495,25615,72446
 1980,Summer,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",96423,72698,48318
 2012,Summer,Athletics,"Athletics Women's 10,000 metres",28313,60632,20525
@@ -5494,7 +5494,7 @@
 1948,Summer,Canoeing,"Canoeing Men's Kayak Singles, 10,000 metres",36960,131080,111560
 1980,Winter,Figure Skating,Figure Skating Men's Singles,23500,49142,120254
 1932,Summer,Equestrianism,"Equestrianism Men's Jumping, Individual",86489,19626,127409
-1932,Summer,Equestrianism,"Equestrianism Men's Jumping, Team",NA,NA,NA
+1932,Summer,Equestrianism,"Equestrianism Men's Jumping, Team",,,
 2010,Winter,Snowboarding,Snowboarding Women's Parallel Giant Slalom,106106,51929,63946
 2014,Winter,Snowboarding,Snowboarding Women's Parallel Giant Slalom,64936,118046,134105
 2014,Winter,Snowboarding,Snowboarding Women's Parallel Slalom,30509,57744,61692
@@ -5505,12 +5505,12 @@
 1960,Summer,Athletics,Athletics Men's Decathlon,55444,132469,65402
 1960,Winter,Figure Skating,Figure Skating Men's Singles,54272,28798,53105
 1896,Summer,Gymnastics,Gymnastics Men's Horse Vault,107613,135481,129377
-1896,Summer,Gymnastics,Gymnastics Men's Parallel Bars,35740,135481,NA
-1896,Summer,Gymnastics,"Gymnastics Men's Parallel Bars, Teams",129377,NA,71691
-1896,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,129377,35740,NA
-1896,Summer,Gymnastics,"Gymnastics Men's Horizontal Bar, Teams",129377,NA,NA
+1896,Summer,Gymnastics,Gymnastics Men's Parallel Bars,35740,135481,
+1896,Summer,Gymnastics,"Gymnastics Men's Parallel Bars, Teams",129377,,71691
+1896,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,129377,35740,
+1896,Summer,Gymnastics,"Gymnastics Men's Horizontal Bar, Teams",129377,,
 1896,Summer,Gymnastics,Gymnastics Men's Rings,80474,129377,93607
-1896,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,135481,129377,NA
+1896,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,135481,129377,
 1924,Winter,Figure Skating,Figure Skating Men's Singles,42258,12565,39125
 2002,Winter,Speed Skating,"Speed Skating Men's 10,000 metres",123671,102356,106415
 1976,Summer,Athletics,Athletics Women's Pentathlon,110281,12629,95876
@@ -5607,16 +5607,16 @@
 1932,Summer,Gymnastics,Gymnastics Men's Team All-Around,120724,107630,123373
 1932,Summer,Gymnastics,Gymnastics Men's Floor Exercise,92849,79523,68934
 1932,Summer,Gymnastics,Gymnastics Men's Horse Vault,43662,55047,18364
-1932,Summer,Art Competitions,"Art Competitions Mixed Painting, Paintings",128216,79934,NA
+1932,Summer,Art Competitions,"Art Competitions Mixed Painting, Paintings",128216,79934,
 2000,Summer,Shooting,Shooting Women's Trap,43522,98086,38399
 1928,Summer,Athletics,Athletics Women's Discus Throw,62513,22975,116890
-1936,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Medals",NA,78829,30731
+1936,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Medals",,78829,30731
 1906,Summer,Shooting,"Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres",100476,99648,25946
 1956,Summer,Athletics,Athletics Women's Long Jump,64461,130031,59331
 1928,Summer,Sailing,Sailing Mixed 8 metres,68966,127637,121327
 1924,Summer,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",24228,45818,92736
 1936,Summer,Athletics,Athletics Men's 110 metres Hurdles,121546,35418,95883
-1928,Summer,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",NA,NA,110858
+1928,Summer,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",,,110858
 1924,Summer,Rowing,Rowing Men's Double Sculls,58597,115292,119753
 1956,Summer,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",102893,48112,16297
 1912,Summer,Shooting,"Shooting Men's Free Pistol, 50 metres, Team",108088,26342,115133
@@ -5705,11 +5705,11 @@
 1960,Summer,Athletics,"Athletics Men's 3,000 metres Steeplechase",64469,112800,103933
 1968,Summer,Equestrianism,"Equestrianism Mixed Dressage, Individual",60976,84997,61257
 1968,Summer,Equestrianism,"Equestrianism Mixed Dressage, Team",84997,94284,41974
-1924,Summer,Art Competitions,Art Competitions Mixed Architecture,NA,67060,78035
+1924,Summer,Art Competitions,Art Competitions Mixed Architecture,,67060,78035
 1908,Summer,Figure Skating,Figure Skating Men's Singles,104675,55248,120040
 1968,Summer,Rowing,Rowing Men's Single Sculls,130248,78298,27477
 1988,Winter,Figure Skating,Figure Skating Women's Singles,131154,74479,119782
-1920,Summer,Art Competitions,Art Competitions Mixed Painting,NA,15420,89815
+1920,Summer,Art Competitions,Art Competitions Mixed Painting,,15420,89815
 1956,Summer,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",74788,72954,94925
 1980,Summer,Wrestling,"Wrestling Men's Welterweight, Freestyle",99263,53553,57392
 1956,Summer,Swimming,Swimming Men's 200 metres Breaststroke,37703,133152,133506
@@ -5727,21 +5727,21 @@
 1924,Summer,Gymnastics,Gymnastics Men's Rings,75868,96795,123715
 1924,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,130429,44221,99396
 1924,Summer,Gymnastics,Gymnastics Men's Rope Climbing,116610,108269,123715
-1924,Summer,Gymnastics,Gymnastics Men's Side Horse,108269,42083,NA
+1924,Summer,Gymnastics,Gymnastics Men's Side Horse,108269,42083,
 1920,Summer,Shooting,"Shooting Men's Running Target, Single Shot",88904,117045,84709
 1920,Summer,Shooting,"Shooting Men's Running Target, Single Shot, Team",88904,129248,113935
 1920,Summer,Shooting,"Shooting Men's Running Target, Double Shot",69882,66296,69653
 2012,Summer,Badminton,Badminton Women's Doubles,134683,56766,126833
-1924,Winter,Alpinism,Alpinism Mixed Alpinism,128001,NA,NA
+1924,Winter,Alpinism,Alpinism Mixed Alpinism,128001,,
 1904,Summer,Archery,Archery Men's Double American Round,15893,130662,119962
 1904,Summer,Archery,Archery Men's Double York Round,15893,130662,119962
 1904,Summer,Archery,Archery Men's Team Round,130662,131531,100534
 1956,Summer,Athletics,Athletics Men's Decathlon,17737,55444,65402
 1968,Summer,Athletics,Athletics Men's Discus Throw,88073,79780,25157
-1964,Winter,Speed Skating,Speed Skating Men's 500 metres,77445,89462,NA
+1964,Winter,Speed Skating,Speed Skating Men's 500 metres,77445,89462,
 2000,Summer,Badminton,Badminton Women's Doubles,43423,132546,97775
-1920,Summer,Archery,"Archery Men's Target Archery, 33 metres, Individual",124694,15721,NA
-1920,Summer,Archery,"Archery Men's Target Archery, 50 metres, Individual",15721,124694,NA
+1920,Summer,Archery,"Archery Men's Target Archery, 33 metres, Individual",124694,15721,
+1920,Summer,Archery,"Archery Men's Target Archery, 50 metres, Individual",15721,124694,
 1936,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,50178,27913,51571
 1992,Summer,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",35550,61650,31065
 1992,Summer,Athletics,"Athletics Women's 3,000 metres",102261,105010,19599
@@ -5760,12 +5760,12 @@
 2002,Winter,Snowboarding,Snowboarding Women's Halfpipe,21814,126358,100146
 1952,Summer,Boxing,Boxing Men's Light-Middleweight,91282,124901,120512
 1964,Summer,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",59511,67075,55758
-1908,Summer,Polo,Polo Men's Polo,130831,131208,NA
+1908,Summer,Polo,Polo Men's Polo,130831,131208,
 1980,Summer,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",110701,73189,133516
 1932,Summer,Rowing,Rowing Men's Coxless Pairs,31484,119907,79711
 1904,Summer,Rowing,Rowing Men's Coxless Pairs,103779,125332,55019
 1994,Winter,Alpine Skiing,Alpine Skiing Women's Combined,130127,107297,29764
-1912,Summer,Art Competitions,Art Competitions Mixed Sculpturing,130936,30279,NA
+1912,Summer,Art Competitions,Art Competitions Mixed Sculpturing,130936,30279,
 1968,Summer,Athletics,Athletics Men's Javelin Throw,72466,60544,64805
 1988,Summer,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",61177,107105,16294
 1992,Summer,Canoeing,"Canoeing Men's Canadian Singles, 500 metres",16294,111969,48318
@@ -5781,7 +5781,7 @@
 1976,Summer,Boxing,Boxing Men's Light-Heavyweight,113870,113246,41922
 2012,Summer,Weightlifting,Weightlifting Women's Flyweight,128531,80571,103809
 2016,Summer,Weightlifting,Weightlifting Women's Featherweight,50545,28251,133080
-1904,Summer,Boxing,Boxing Men's Flyweight,35435,16612,NA
+1904,Summer,Boxing,Boxing Men's Flyweight,35435,16612,
 1896,Summer,Athletics,Athletics Men's 100 metres,16616,49185,117571
 1896,Summer,Athletics,Athletics Men's 400 metres,16616,53542,40851
 1960,Summer,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",95173,32154,92455
@@ -5864,7 +5864,7 @@
 1912,Summer,Athletics,"Athletics Men's 10,000 metres",62160,119429,114928
 1984,Summer,Weightlifting,Weightlifting Men's Heavyweight II,87717,118704,18349
 2008,Summer,Taekwondo,Taekwondo Men's Flyweight,93319,78833,86313
-1920,Summer,Sailing,Sailing Mixed 6.5 metres,129713,129344,NA
+1920,Summer,Sailing,Sailing Mixed 6.5 metres,129713,129344,
 1972,Summer,Swimming,Swimming Women's 100 metres Breaststroke,18474,97259,130057
 2008,Summer,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",51737,96559,106427
 2016,Summer,Judo,Judo Women's Extra-Lightweight,91398,54503,62386
@@ -5924,7 +5924,7 @@
 2004,Summer,Trampolining,Trampolining Women's Individual,29095,22175,50641
 1948,Summer,Athletics,"Athletics Men's 3,000 metres Steeplechase",111540,32406,44769
 1948,Summer,Athletics,Athletics Men's 10 kilometres Walk,79596,55204,107813
-1936,Summer,Art Competitions,"Art Competitions Mixed Music, Unknown Event",NA,NA,NA
+1936,Summer,Art Competitions,"Art Competitions Mixed Music, Unknown Event",,,
 2008,Summer,Weightlifting,Weightlifting Men's Super-Heavyweight,114810,20708,106493
 1952,Summer,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",49056,20713,119337
 2012,Summer,Weightlifting,Weightlifting Women's Featherweight,20796,50545,52312
@@ -5943,7 +5943,7 @@
 2014,Winter,Bobsleigh,Bobsleigh Women's Two,82726,130626,42798
 2012,Summer,Canoeing,"Canoeing Men's Canadian Singles, Slalom",33282,118690,75508
 2012,Summer,Cycling,Cycling Women's Team Sprint,129570,43977,78005
-1896,Summer,Athletics,Athletics Men's High Jump,21795,38860,NA
+1896,Summer,Athletics,Athletics Men's High Jump,21795,38860,
 1896,Summer,Athletics,Athletics Men's Long Jump,21795,38860,22700
 1896,Summer,Athletics,Athletics Men's Shot Put,38860,42102,91250
 1904,Summer,Athletics,Athletics Men's All-Around Championship,59615,43907,46029
@@ -5954,8 +5954,8 @@
 1932,Summer,Wrestling,"Wrestling Men's Lightweight, Freestyle",90453,57697,61052
 1920,Summer,Archery,"Archery Men's Pole Archery, Small Birds, Individual",124789,124258,47947
 1920,Summer,Archery,"Archery Men's Pole Archery, Large Birds, Individual",22068,124258,35706
-1920,Summer,Archery,"Archery Men's Pole Archery, Small Birds, Team",124789,NA,NA
-1920,Summer,Archery,"Archery Men's Pole Archery, Large Birds, Team",124789,NA,NA
+1920,Summer,Archery,"Archery Men's Pole Archery, Small Birds, Team",124789,,
+1920,Summer,Archery,"Archery Men's Pole Archery, Large Birds, Team",124789,,
 1936,Summer,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",90911,87543,49986
 1956,Summer,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",27458,134355,113546
 2000,Summer,Trampolining,Trampolining Women's Individual,57503,122445,22175
@@ -5965,7 +5965,7 @@
 1932,Summer,Diving,Diving Women's Springboard,22347,99246,34272
 1932,Summer,Diving,Diving Women's Platform,96664,22347,102467
 1920,Summer,Art Competitions,Art Competitions Mixed Sculpturing,22440,41738,26069
-1912,Summer,Art Competitions,Art Competitions Mixed Architecture,81394,NA,NA
+1912,Summer,Art Competitions,Art Competitions Mixed Architecture,81394,,
 1968,Summer,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",48288,109247,45700
 2008,Summer,Diving,Diving Men's Synchronized Springboard,128443,106161,97308
 2004,Summer,Diving,Diving Men's Synchronized Platform,132514,128918,85553
@@ -5980,12 +5980,12 @@
 1932,Summer,Swimming,Swimming Women's 100 metres Backstroke,49432,77999,25652
 1900,Summer,Athletics,Athletics Men's Shot Put,109494,77406,38860
 1952,Summer,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",131080,47067,130212
-1904,Summer,Athletics,"Athletics Men's 4 mile, Team",123959,126085,NA
+1904,Summer,Athletics,"Athletics Men's 4 mile, Team",123959,126085,
 2008,Summer,Weightlifting,Weightlifting Women's Super-Heavyweight,53634,62843,42172
 1956,Summer,Boxing,Boxing Men's Featherweight,104246,85810,85932
 1920,Summer,Gymnastics,Gymnastics Men's Individual All-Around,133892,121290,42083
 1908,Summer,Wrestling,"Wrestling Men's Bantamweight, Freestyle",78195,96882,23366
-1948,Summer,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",NA,129401,67136
+1948,Summer,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",,129401,67136
 1920,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",66865,23457,76839
 2014,Winter,Freestyle Skiing,Freestyle Skiing Women's Moguls,30454,30453,58326
 1906,Summer,Fencing,"Fencing Men's epee, Individual",26259,28550,124204
@@ -6016,12 +6016,12 @@
 1932,Summer,Athletics,Athletics Men's Shot Put,109010,102868,29666
 1992,Summer,Wrestling,"Wrestling Men's Light-Flyweight, Greco-Roman",65292,73319,105253
 1900,Summer,Golf,Golf Men's Individual,105390,103689,101344
-1936,Summer,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",NA,25829,116835
-1900,Summer,Basque Pelota,Basque Pelota Men's Two-Man Teams With Cesta,126675,NA,NA
+1936,Summer,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",,25829,116835
+1900,Summer,Basque Pelota,Basque Pelota Men's Two-Man Teams With Cesta,126675,,
 1900,Summer,Equestrianism,"Equestrianism Mixed Jumping, Individual",44637,124435,26039
 1906,Summer,Shooting,"Shooting Men's Trap, Single Shot, 16 metres",78927,93437,78929
 1906,Summer,Shooting,"Shooting Men's Trap, Double Shot, 14 metres",78929,79098,78927
-1928,Summer,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",NA,25957,NA
+1928,Summer,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",,25957,
 1900,Summer,Tennis,Tennis Men's Singles,29107,73603,86975
 1900,Summer,Tennis,Tennis Men's Doubles,29109,26951,96913
 1920,Summer,Weightlifting,Weightlifting Men's Featherweight,26161,107071,103900
@@ -6032,7 +6032,7 @@
 1900,Summer,Equestrianism,Equestrianism Mixed Long Jump,124737,121960,26569
 1906,Summer,Tennis,Tennis Women's Singles,110703,75099,91931
 1932,Summer,Diving,Diving Men's Springboard,38078,112271,27003
-1906,Summer,Rowing,Rowing Men's Single Sculls,27195,66752,NA
+1906,Summer,Rowing,Rowing Men's Single Sculls,27195,66752,
 2004,Summer,Weightlifting,Weightlifting Women's Super-Heavyweight,118411,53634,131745
 2012,Summer,Athletics,Athletics Women's Long Jump,99538,112815,27380
 1964,Summer,Rowing,Rowing Men's Single Sculls,52852,48551,63237
@@ -6040,8 +6040,8 @@
 1936,Summer,Canoeing,"Canoeing Men's Folding Kayak Singles, 10 kilometres",50441,31234,49943
 1932,Summer,Wrestling,"Wrestling Men's Bantamweight, Freestyle",92490,135227,54006
 1980,Summer,Rowing,Rowing Men's Single Sculls,57723,132225,58877
-1906,Summer,Athletics,Athletics Men's Standing High Jump,33557,109597,NA
-1904,Summer,Fencing,"Fencing Men's Foil, Team",125020,121554,NA
+1906,Summer,Athletics,Athletics Men's Standing High Jump,33557,109597,
+1904,Summer,Fencing,"Fencing Men's Foil, Team",125020,121554,
 1976,Summer,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",28308,117609,47479
 1964,Summer,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",63601,102629,28473
 1972,Summer,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",78101,30780,118869
@@ -6056,7 +6056,7 @@
 2000,Summer,Weightlifting,Weightlifting Women's Flyweight,87072,103461,52099
 1948,Summer,Canoeing,"Canoeing Men's Canadian Doubles, 10,000 metres",73081,92573,38279
 1896,Summer,Swimming,Swimming Men's 100 metres Freestyle For Sailors,74168,59266,30049
-1900,Summer,Archery,Archery Men's Sur La Perche a La Herse,36505,108898,NA
+1900,Summer,Archery,Archery Men's Sur La Perche a La Herse,36505,108898,
 1980,Summer,Weightlifting,Weightlifting Men's Heavyweight II,118574,59456,117371
 1968,Summer,Weightlifting,Weightlifting Men's Heavyweight,134407,99478,30252
 1900,Summer,Sailing,Sailing Mixed 3-10 Ton,118894,124464,72957
@@ -6070,14 +6070,14 @@
 1908,Summer,Rowing,Rowing Men's Coxless Pairs,120002,125966,120998
 1932,Summer,Weightlifting,Weightlifting Men's Lightweight,30941,44468,94711
 1980,Summer,Canoeing,"Canoeing Men's Canadian Singles, 1,000 metres",72698,96423,69066
-1936,Summer,Alpinism,Alpinism Mixed Alpinism,31057,NA,NA
+1936,Summer,Alpinism,Alpinism Mixed Alpinism,31057,,
 1984,Summer,Athletics,Athletics Women's Javelin Throw,105337,69872,129969
 1936,Summer,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",31600,70736,64024
 1936,Summer,Art Competitions,"Art Competitions Mixed Literature, Epic Works",57542,31640,91345
 1932,Summer,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",42148,31662,63011
 1906,Summer,Athletics,"Athletics Men's 3,000 metres Walk",117611,83083,105795
 1988,Summer,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",103141,80556,67981
-1908,Summer,Shooting,"Shooting Men's Running Target, Single Shot, Team",117046,98874,NA
+1908,Summer,Shooting,"Shooting Men's Running Target, Single Shot, Team",117046,98874,
 1896,Summer,Weightlifting,"Weightlifting Men's Unlimited, One Hand",32330,54456,86277
 1896,Summer,Weightlifting,"Weightlifting Men's Unlimited, Two Hands",54456,32330,126142
 1896,Summer,Wrestling,"Wrestling Men's Unlimited Class, Greco-Roman",107613,122329,59429
@@ -6093,8 +6093,8 @@
 1956,Summer,Swimming,Swimming Women's 200 metres Breaststroke,45891,117453,119154
 1936,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",95715,127166,60688
 1904,Summer,Athletics,Athletics Men's Standing Triple Jump,33557,60473,114151
-1904,Summer,Gymnastics,Gymnastics Men's Horse Vault,47181,NA,78994
-1904,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,47659,NA,33582
+1904,Summer,Gymnastics,Gymnastics Men's Horse Vault,47181,,78994
+1904,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,47659,,33582
 1904,Summer,Gymnastics,Gymnastics Men's Rope Climbing,33582,63842,127106
 1904,Summer,Gymnastics,Gymnastics Men's Side Horse,47181,33582,78994
 1952,Summer,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",63205,103737,63467
@@ -6103,16 +6103,16 @@
 1936,Summer,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",113096,34236,115367
 1936,Summer,Athletics,Athletics Women's Discus Throw,76811,127987,81184
 1980,Summer,Shooting,"Shooting Mixed Rapid-Fire Pistol, 25 metres",52264,130216,94072
-1908,Summer,Motorboating,Motorboating Mixed B-Class (Under 60 Feet),120083,NA,NA
-1908,Summer,Motorboating,Motorboating Mixed C-Class,120083,NA,NA
+1908,Summer,Motorboating,Motorboating Mixed B-Class (Under 60 Feet),120083,,
+1908,Summer,Motorboating,Motorboating Mixed C-Class,120083,,
 1960,Summer,Rowing,Rowing Men's Single Sculls,52852,48551,61741
-1904,Summer,Boxing,Boxing Men's Bantamweight,60713,35435,NA
+1904,Summer,Boxing,Boxing Men's Bantamweight,60713,35435,
 1976,Summer,Wrestling,"Wrestling Men's Lightweight, Freestyle",94993,58330,116207
 1896,Summer,Cycling,Cycling Men's Sprint,76252,86280,35708
 1896,Summer,Cycling,"Cycling Men's 10,000 metres",76252,35708,107006
 1900,Summer,Athletics,Athletics Men's Hammer Throw,35717,46029,77406
 1928,Summer,Boxing,Boxing Men's Heavyweight,101718,98678,79346
-1948,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Reliefs",NA,NA,35819
+1948,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Reliefs",,,35819
 1904,Summer,Boxing,Boxing Men's Welterweight,133185,113662,72600
 2000,Summer,Shooting,Shooting Women's Double Trap,45790,39415,100315
 1932,Summer,Wrestling,"Wrestling Men's Welterweight, Freestyle",125036,77456,68501
@@ -6122,13 +6122,13 @@
 1956,Summer,Rowing,Rowing Men's Single Sculls,52852,73054,58596
 1932,Summer,Weightlifting,Weightlifting Men's Middleweight,52603,38055,48736
 1896,Summer,Shooting,"Shooting Men's Muzzle-Loading Pistol, 25 metres",36739,89416,85988
-1936,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Reliefs",116727,61386,NA
+1936,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Reliefs",116727,61386,
 1964,Summer,Boxing,Boxing Men's Heavyweight,36912,50710,132836
-1928,Summer,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",NA,NA,NA
+1928,Summer,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",,,
 1980,Summer,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",83868,121401,63709
 1952,Summer,Athletics,Athletics Men's Shot Put,87674,49817,37413
 1906,Summer,Fencing,"Fencing Men's epee, Masters, Individual",125939,38281,98435
-1900,Summer,Equestrianism,Equestrianism Mixed High Jump,121960,NA,124435
+1900,Summer,Equestrianism,Equestrianism Mixed High Jump,121960,,124435
 1896,Summer,Athletics,Athletics Men's Discus Throw,38860,91355,126142
 2004,Summer,Wrestling,"Wrestling Women's Heavyweight, Freestyle",128611,74654,45178
 1972,Summer,Canoeing,"Canoeing Women's Kayak Singles, 500 metres",100361,53032,94336
@@ -6147,29 +6147,29 @@
 2016,Summer,Wrestling,"Wrestling Women's Middleweight, Freestyle",58163,74264,79362
 1932,Summer,Gymnastics,Gymnastics Men's Tumbling,131332,43177,47935
 1932,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",116976,92883,43346
-1912,Summer,Art Competitions,Art Competitions Mixed Painting,92853,NA,NA
+1912,Summer,Art Competitions,Art Competitions Mixed Painting,92853,,
 1920,Summer,Figure Skating,Figure Skating Women's Singles,56258,86924,129491
 1932,Summer,Boxing,Boxing Men's Bantamweight,44338,134975,126620
 1992,Summer,Wrestling,"Wrestling Men's Welterweight, Freestyle",91528,81315,59023
-1920,Summer,Shooting,Shooting Men's Unknown Event,NA,NA,NA
+1920,Summer,Shooting,Shooting Men's Unknown Event,,,
 1932,Summer,Athletics,Athletics Men's High Jump,77905,124827,121154
-1920,Summer,Sailing,Sailing Mixed 18 foot,NA,NA,NA
-1900,Summer,Archery,Archery Men's Unknown Event,NA,NA,NA
+1920,Summer,Sailing,Sailing Mixed 18 foot,,,
+1900,Summer,Archery,Archery Men's Unknown Event,,,
 1900,Summer,Archery,"Archery Men's Au Chapelet, 50 metres",82573,47421,78848
 1968,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",98130,132201,75676
 1904,Summer,Gymnastics,Gymnastics Men's Club Swinging,47659,127106,130883
-1900,Summer,Archery,Archery Men's Championnat Du Monde,48121,124694,NA
+1900,Summer,Archery,Archery Men's Championnat Du Monde,48121,124694,
 1932,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",55207,72527,122637
 1904,Summer,Athletics,Athletics Men's 400 metres Hurdles,48631,128201,95556
 1932,Summer,Wrestling,"Wrestling Men's Heavyweight, Freestyle",100628,100860,48821
 1904,Summer,Rowing,Rowing Men's Double Sculls,125332,77831,129534
 1900,Summer,Athletics,Athletics Men's 60 metres,63659,119439,103047
-1904,Summer,Archery,Archery Women's Team Round,131533,NA,NA
-1936,Summer,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",NA,NA,NA
+1904,Summer,Archery,Archery Women's Team Round,131533,,
+1936,Summer,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",,,
 1906,Summer,Wrestling,"Wrestling Men's All-Around, Greco-Roman",54447,129199,129028
 1904,Summer,Weightlifting,"Weightlifting Men's Unlimited, Two Hands",56781,89847,64683
 1956,Summer,Boxing,Boxing Men's Light-Middleweight,91282,121282,94778
-1896,Summer,Cycling,Cycling Men's 12-Hours Race,107006,58394,NA
+1896,Summer,Cycling,Cycling Men's 12-Hours Race,107006,58394,
 1896,Summer,Swimming,Swimming Men's 500 metres Freestyle,85477,93091,59374
 1932,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",61386,73120,77710
 1948,Summer,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",70111,106901,86070
@@ -6180,13 +6180,13 @@
 1920,Summer,Athletics,Athletics Men's 56-pound Weight Throw,77472,103796,70034
 1920,Summer,Wrestling,"Wrestling Men's Heavyweight, Freestyle",102850,92990,86383
 1932,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",78204,111536,106460
-1904,Summer,Boxing,Boxing Men's Middleweight,76972,113953,NA
-1920,Summer,Art Competitions,Art Competitions Mixed Music,81356,101084,NA
-1896,Summer,Fencing,"Fencing Men's Foil, Masters, Individual",97712,93575,NA
+1904,Summer,Boxing,Boxing Men's Middleweight,76972,113953,
+1920,Summer,Art Competitions,Art Competitions Mixed Music,81356,101084,
+1896,Summer,Fencing,"Fencing Men's Foil, Masters, Individual",97712,93575,
 1900,Summer,Archery,"Archery Men's Au Chapelet, 33 metres",124694,119640,93957
 1900,Summer,Archery,"Archery Men's Au Cordon Dore, 33 metres",124694,119640,93957
-1920,Summer,Archery,"Archery Men's Target Archery, 28 metres, Individual",124694,97860,NA
-1906,Summer,Fencing,"Fencing Men's Sabre, Masters, Individual",125939,98435,NA
-1932,Summer,Alpinism,Alpinism Mixed Alpinism,107059,NA,NA
-1936,Summer,Aeronautics,Aeronautics Mixed Aeronautics,107506,NA,NA
-1920,Summer,Art Competitions,Art Competitions Mixed Architecture,NA,110976,NA
+1920,Summer,Archery,"Archery Men's Target Archery, 28 metres, Individual",124694,97860,
+1906,Summer,Fencing,"Fencing Men's Sabre, Masters, Individual",125939,98435,
+1932,Summer,Alpinism,Alpinism Mixed Alpinism,107059,,
+1936,Summer,Aeronautics,Aeronautics Mixed Aeronautics,107506,,
+1920,Summer,Art Competitions,Art Competitions Mixed Architecture,,110976,
