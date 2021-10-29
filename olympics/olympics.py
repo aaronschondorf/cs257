@@ -57,7 +57,7 @@ elif args.medals:
 elif args.event:
     try:
         cursor = connection.cursor()
-        query = 'SELECT name, team, year, event FROM athletes, events WHERE gold_medalist = id AND sport = %s ORDER BY year'
+        query = 'SELECT name, team, year, event FROM athletes, events, games WHERE gold_medalist = id AND sport = %s ORDER BY year'
         cursor.execute(query,(search_string,))
         for row in cursor:
             print(str(row[2]) + ', ' + row[3] + ': ' + row[0] + ', ' + row[1])

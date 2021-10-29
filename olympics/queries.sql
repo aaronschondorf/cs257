@@ -8,7 +8,7 @@ WHERE noc = team
 AND noc = 'Kenya'
 
 SELECT event, year
-FROM events, athletes
+FROM events, athletes, games
 WHERE name = 'Greg Louganis'
 AND id = gold
 OR id = silver
